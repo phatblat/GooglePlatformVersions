@@ -7,6 +7,7 @@ Older versions can be downloaded from the [archives](https://developer.android.c
 
 ## 3.6
 
+- [3.6 Canary 3](https://androidstudio.googleblog.com/2019/06/android-studio-36-canary-3-available.html) (191.5618338) - 2019-06-07
 - [3.6 Canary 2](https://androidstudio.googleblog.com/2019/05/android-studio-36-canary-2-available.html) (191.5599242) - 2019-05-30
 - [3.6 Canary 1](https://androidstudio.googleblog.com/2019/05/android-studio-36-canary-1-available.html) (191.5595896) - 2019-05-23
 
