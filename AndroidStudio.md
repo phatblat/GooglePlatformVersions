@@ -12,6 +12,7 @@ Older versions can be downloaded from the [archives](https://developer.android.c
 
 ## 3.5
 
+- [3.5 Beta 4](https://androidstudio.googleblog.com/2019/06/android-studio-35-beta-4-available.html) (191.5619324) - 2019-06-07
 - [3.5 Beta 3](https://androidstudio.googleblog.com/2019/05/android-studio-35-beta-3-available.html) (191.5585527) - 2019-05-28
 - [3.5 Beta 2](https://androidstudio.googleblog.com/2019/05/android-studio-35-beta-2-available.html) (191.5549111) - 2019-05-20
 - [3.5 Beta 1](https://androidstudio.googleblog.com/2019/05/android-studio-35-beta-1-available.html) (191.5529924) - 2019-05-07
