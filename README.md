@@ -6,6 +6,7 @@ Recent history of platforms developed by Google, including build tools for these
 
 - [Android Studio][1]
 - [Emulator][6]
+- [SDK Build Tools][7]
 - [Flutter][2]
 
 ## 👡 Platforms
@@ -24,3 +25,4 @@ This repo is licensed under the MIT License. See the [LICENSE](LICENSE.md) file 
 [4]: ChromeOS.md
 [5]: WearOS.md
 [6]: Emulator.md
+[7]: SDKBuildTools.md
