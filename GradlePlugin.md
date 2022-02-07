@@ -2,7 +2,7 @@
 
 Android Gradle Plugin [release notes](https://developer.android.com/studio/releases/gradle-plugin)
 
-## [7.1](https://developer.android.com/studio/releases/gradle-plugin#7-1-0)
+## 7.1
 
 ### 7.1 Compatibility
 
@@ -13,12 +13,12 @@ Android Gradle Plugin [release notes](https://developer.android.com/studio/relea
 
 - **[7.1.0](https://developer.android.com/studio/releases/gradle-plugin#7-1-0)** - 2022-01
 
-## [7.0](https://developer.android.com/studio/releases/gradle-plugin#7-0-0)
+## 7.0
 
 ### 7.0 Compatibility
 
 - Gradle 7.0.2
-- SDK Build Tools 28.0.3
+- SDK Build Tools 30.0.3
 - NDK 21.4.7075529 (default version)
 - **JDK 11**
 
@@ -27,6 +27,17 @@ Android Gradle Plugin [release notes](https://developer.android.com/studio/relea
 - [7.0.2](https://androidstudio.googleblog.com/2021/09/android-studio-arctic-fox-202031-patch.html) - 2021-09-01
 - [7.0.1](https://androidstudio.googleblog.com/2021/08/android-studio-arctic-fox-202031-patch.html) - 2021-08-18
 - **[7.0.0](https://developer.android.com/studio/releases/gradle-plugin#7-0-0)** - 2021-06
+
+## 4.2
+
+### 4.2 Compatibility
+
+- Gradle 6.7.1
+- SDK Build Tools 30.0.3
+- NDK 21.4.7075529 (default version)
+- JDK 8 (default version)
+
+- **[4.2.0](https://developer.android.com/studio/releases/gradle-plugin#4-2-0)** - 2021-03
 
 ## 3.4
 
