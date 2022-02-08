@@ -33,7 +33,7 @@ Android Gradle Plugin [release notes](https://developer.android.com/studio/relea
 ### 4.2 Compatibility
 
 - Gradle 6.7.1
-- SDK Build Tools 30.0.3
+- SDK Build Tools 30.0.2
 - NDK 21.4.7075529 (default version)
 - JDK 8 (default version)
 
