@@ -2,6 +2,12 @@
 
 [release notes](https://developer.android.com/studio/releases/platforms)
 
+## Android 12 (API level 31)
+
+## Android 11 (API level 30)
+
+## Android 10 (API level 29)
+
 ## Android 9 (API level 28)
 
 - Revision 1 - 2018-08
