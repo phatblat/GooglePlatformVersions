@@ -57,6 +57,7 @@ done up to
 
 - AGP 3.2 or higher
 
+- [Patch 2](https://androidstudio.googleblog.com/2022/02/android-studio-bumblebee-202111-patch-2.html) - 2022-02-23
 - [Patch 1](https://androidstudio.googleblog.com/2022/02/android-studio-bumblebee-202111-patch-1.html) - 2022-02-04
 - [RC 1](https://androidstudio.googleblog.com/2022/01/android-studio-bumblebee-rc-1-available.html) - 2022-01-04
 - [Beta 3](https://androidstudio.googleblog.com/2021/11/android-studio-bumblebee-beta-3-now.html) - 2021-11-09
