@@ -31,6 +31,8 @@ done up to
 
 213.5744.223.2113.8103819
 
+- [Canary 3](https://androidstudio.googleblog.com/2022/02/android-studio-dolphin-canary-3-now.html) - 2022-02-14
+- [Canary 2](https://androidstudio.googleblog.com/2022/02/android-studio-dolphin-canary-2-now.html) - 2022-02-11
 - [Canary 1](https://androidstudio.googleblog.com/2022/01/android-studio-dolphin-canary-1-now.html) - 2022-01-31
 
 ## Chipmunk (2021.2.1)
