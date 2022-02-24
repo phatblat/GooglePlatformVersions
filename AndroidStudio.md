@@ -41,6 +41,7 @@ done up to
 
 - AGP 3.2 or higher
 
+- [Beta 2](https://androidstudio.googleblog.com/2022/02/android-studio-chipmunk-beta-2-now.html) - 2022-02-11
 - [Beta 1](https://androidstudio.googleblog.com/2022/01/android-studio-chipmunk-beta-1-now.html) - 2022-01-27
 - [Canary 7](https://androidstudio.googleblog.com/2022/01/android-studio-chipmunk-canary-7-now.html) - 2022-01-10
 - [Canary 6](https://androidstudio.googleblog.com/2021/12/android-studio-chipmunk-canary-6-now.html) - 2021-12-15
