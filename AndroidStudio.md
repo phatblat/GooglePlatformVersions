@@ -43,6 +43,7 @@ done up to
 
 - AGP 3.2 or higher
 
+- [Beta 4](https://androidstudio.googleblog.com/2022/03/android-studio-chipmunk-beta-4-now.html) - 2022-03-09
 - [Beta 3](https://androidstudio.googleblog.com/2022/03/android-studio-chipmunk-beta-3-now.html) - 2022-03-01
 - [Beta 2](https://androidstudio.googleblog.com/2022/02/android-studio-chipmunk-beta-2-now.html) - 2022-02-11
 - [Beta 1](https://androidstudio.googleblog.com/2022/01/android-studio-chipmunk-beta-1-now.html) - 2022-01-27
