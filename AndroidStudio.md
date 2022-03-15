@@ -31,6 +31,7 @@ done up to
 
 213.5744.223.2113.8103819
 
+- [Canary 6](https://androidstudio.googleblog.com/2022/03/android-studio-dolphin-canary-6-now.html) - 2022-03-14
 - [Canary 5](https://androidstudio.googleblog.com/2022/03/android-studio-dolphin-canary-5-now.html) - 2022-03-04
 - [Canary 4](https://androidstudio.googleblog.com/2022/03/android-studio-dolphin-canary-4-now.html) - 2022-03-03
 - [Canary 3](https://androidstudio.googleblog.com/2022/02/android-studio-dolphin-canary-3-now.html) - 2022-02-14
