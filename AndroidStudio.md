@@ -39,12 +39,10 @@ done up to
 
 ## Chipmunk (2021.2.1)
 
-212.5457.46.2112.8094850
-
 - AGP 3.2 or higher
 
-- [Beta 4](https://androidstudio.googleblog.com/2022/03/android-studio-chipmunk-beta-4-now.html) - 2022-03-09
-- [Beta 3](https://androidstudio.googleblog.com/2022/03/android-studio-chipmunk-beta-3-now.html) - 2022-03-01
+- [Beta 4](https://androidstudio.googleblog.com/2022/03/android-studio-chipmunk-beta-4-now.html) (212.5712.43.2112.8233820) - 2022-03-09
+- [Beta 3](https://androidstudio.googleblog.com/2022/03/android-studio-chipmunk-beta-3-now.html) (212.5457.46.2112.8094850?) - 2022-03-01
 - [Beta 2](https://androidstudio.googleblog.com/2022/02/android-studio-chipmunk-beta-2-now.html) - 2022-02-11
 - [Beta 1](https://androidstudio.googleblog.com/2022/01/android-studio-chipmunk-beta-1-now.html) - 2022-01-27
 - [Canary 7](https://androidstudio.googleblog.com/2022/01/android-studio-chipmunk-canary-7-now.html) - 2022-01-10
@@ -57,11 +55,10 @@ done up to
 
 ## Bumblebee (2021.1.1)
 
-211.7628.21.2111.8139111
-
 - AGP 3.2 or higher
 
-- [Patch 2](https://androidstudio.googleblog.com/2022/02/android-studio-bumblebee-202111-patch-2.html) - 2022-02-23
+- [Patch 3](https://androidstudio.googleblog.com/2022/04/android-studio-bumblebee-202111-patch-3.html) (211.7628.21.2111.8309675) - 2022-04-07
+- [Patch 2](https://androidstudio.googleblog.com/2022/02/android-studio-bumblebee-202111-patch-2.html) (211.7628.21.2111.8139111?) - 2022-02-23
 - [Patch 1](https://androidstudio.googleblog.com/2022/02/android-studio-bumblebee-202111-patch-1.html) - 2022-02-04
 - [RC 1](https://androidstudio.googleblog.com/2022/01/android-studio-bumblebee-rc-1-available.html) - 2022-01-04
 - [Beta 3](https://androidstudio.googleblog.com/2021/11/android-studio-bumblebee-beta-3-now.html) - 2021-11-09
