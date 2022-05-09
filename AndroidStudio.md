@@ -29,7 +29,8 @@ done up to
 
 ## Dolphin (2021.3.1)
 
-- [Canary 8](https://androidstudio.googleblog.com/2022/04/android-studio-dolphin-canary-8-now.html) (?) - 2022-04-28
+- [Canary 9](https://androidstudio.googleblog.com/2022/04/android-studio-dolphin-canary-9-now.html) (213.7172.25.2113.8473230) - 2022-04-28
+- [Canary 8](https://androidstudio.googleblog.com/2022/04/android-studio-dolphin-canary-8-now.html) (213.7172.25.2113.8421465) - 2022-04-28
 - [Canary 7](https://androidstudio.googleblog.com/2022/03/android-studio-dolphin-canary-7-now.html) (213.6777.52.2113.8305692) - 2022-03-17
 - [Canary 6](https://androidstudio.googleblog.com/2022/03/android-studio-dolphin-canary-6-now.html) (213.5744.223.2113.8103819?) - 2022-03-14
 - [Canary 5](https://androidstudio.googleblog.com/2022/03/android-studio-dolphin-canary-5-now.html) - 2022-03-04
@@ -42,8 +43,8 @@ done up to
 
 - AGP 3.2 or higher
 
-- [RC 2](https://androidstudio.googleblog.com/2022/05/android-studio-chipmunk-rc2-now.html) (?) - 2022-05-03
-- [RC 1](https://androidstudio.googleblog.com/2022/04/android-studio-chipmunk-rc1-now.html) (?) - 2022-04-28
+- [RC 2](https://androidstudio.googleblog.com/2022/05/android-studio-chipmunk-rc2-now.html) (212.5712.43.2112.8504664) - 2022-05-03
+- [RC 1](https://androidstudio.googleblog.com/2022/04/android-studio-chipmunk-rc1-now.html) (212.5712.43.2112.8512546) - 2022-04-28
 - [Beta 4](https://androidstudio.googleblog.com/2022/03/android-studio-chipmunk-beta-4-now.html) (212.5712.43.2112.8233820) - 2022-03-09
 - [Beta 3](https://androidstudio.googleblog.com/2022/03/android-studio-chipmunk-beta-3-now.html) (212.5457.46.2112.8094850?) - 2022-03-01
 - [Beta 2](https://androidstudio.googleblog.com/2022/02/android-studio-chipmunk-beta-2-now.html) - 2022-02-11
