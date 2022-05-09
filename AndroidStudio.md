@@ -29,6 +29,7 @@ done up to
 
 ## Dolphin (2021.3.1)
 
+- [Canary 8](https://androidstudio.googleblog.com/2022/04/android-studio-dolphin-canary-8-now.html) (?) - 2022-04-28
 - [Canary 7](https://androidstudio.googleblog.com/2022/03/android-studio-dolphin-canary-7-now.html) (213.6777.52.2113.8305692) - 2022-03-17
 - [Canary 6](https://androidstudio.googleblog.com/2022/03/android-studio-dolphin-canary-6-now.html) (213.5744.223.2113.8103819?) - 2022-03-14
 - [Canary 5](https://androidstudio.googleblog.com/2022/03/android-studio-dolphin-canary-5-now.html) - 2022-03-04
