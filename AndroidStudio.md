@@ -33,6 +33,7 @@ done up to
 
 ## Dolphin (2021.3.1)
 
+- [Beta 1](https://androidstudio.googleblog.com/2022/05/android-studio-dolphin-beta-1-now.html) (213.7172.25.2113.?) - 2022-04-11
 - [Canary 9](https://androidstudio.googleblog.com/2022/04/android-studio-dolphin-canary-9-now.html) (213.7172.25.2113.8473230) - 2022-04-28
 - [Canary 8](https://androidstudio.googleblog.com/2022/04/android-studio-dolphin-canary-8-now.html) (213.7172.25.2113.8421465) - 2022-04-28
 - [Canary 7](https://androidstudio.googleblog.com/2022/03/android-studio-dolphin-canary-7-now.html) (213.6777.52.2113.8305692) - 2022-03-17
