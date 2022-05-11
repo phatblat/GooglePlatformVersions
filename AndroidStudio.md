@@ -27,6 +27,10 @@ done up to
 ► 2017 (48)
 ► 2016 (5)
 
+## Electric Eel (2022.1.1)
+
+- [Canary 1](https://androidstudio.googleblog.com/2022/05/android-studio-electric-eel-canary-1.html) (213.7172.25.2211.8563311) - 2022-05-11
+
 ## Dolphin (2021.3.1)
 
 - [Canary 9](https://androidstudio.googleblog.com/2022/04/android-studio-dolphin-canary-9-now.html) (213.7172.25.2113.8473230) - 2022-04-28
