@@ -32,14 +32,14 @@ Feature drop for foldables.
 
 https://developer.android.com/about/versions/12
 
-- [12 QPR3 Beta 1.1](https://developer.android.com/about/versions/12/release-notes#beta-1.1) (S3B1.220218.006) - 2022-03-22
-
-  - Security patch level: March 2022
+- [12 QPR3 Beta 3](https://developer.android.com/about/versions/12/release-notes#beta-3) (S3B1.220420.005) - 2022-05-04
+  - Google Play services: 22.09.20
+- [12 QPR3 Beta 2](https://developer.android.com/about/versions/12/release-notes#beta-2) (S3B1.220318.003) - 2022-04-07
+  - Google Play services: 22.09.20
+- [12 QPR3 Beta 1.1](https://developer.android.com/about/versions/12/release-notes#beta-1.1) (S3B1.220218.006) - 2022-03-24
   - Google Play services: 22.06.18
   - Note: This minor update is for Pixel 6 and Pixel 6 Pro devices only. All other supported Pixel devices continue to use the Beta 1 build until a future beta release.
-
 - [12 QPR3 Beta 1](https://developer.android.com/about/versions/12/release-notes#beta-1) (S3B1.220218.004) - 2022-03-09
-  - Security patch level: March 2022
   - Google Play services: 21.48.15
 
 ## Android 11 "R" (API level 30)
