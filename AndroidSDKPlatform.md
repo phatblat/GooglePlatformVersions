@@ -9,6 +9,8 @@ section of the Android Developer portal.
 
 https://developer.android.com/about/versions/13
 
+- [Beta 3](https://developer.android.com/about/versions/13/release-notes#beta-3) (TPB3.220513.017) - 2022-06-08
+  - Google Play services: 22.18.19
 - [Beta 2.1](https://developer.android.com/about/versions/13/release-notes#beta-2.1) (TPBB.220414.018) - 2022-05-26
   - Google Play services: 22.14.13
 - [Beta 2](https://developer.android.com/about/versions/13/release-notes#beta-2) (TPBB.220414.015) - 2022-05-11
