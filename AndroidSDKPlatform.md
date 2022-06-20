@@ -7,14 +7,15 @@ section of the Android Developer portal.
 
 ## Android 13 "Tiramisu" (API level 33)
 
-https://developer.android.com/about/versions/13
+https://developer.android.com/about/versions/13/overview
 
+- [Beta 3.2](https://developer.android.com/about/versions/13/release-notes#beta-3.2) (TPB3.220610.004) - 2022-06-16
+- [Beta 3.1](https://developer.android.com/about/versions/13/release-notes#beta-3.1) (TPB3.220513.017.B1) - 2022-06-10
 - [Beta 3](https://developer.android.com/about/versions/13/release-notes#beta-3) (TPB3.220513.017) - 2022-06-08
   - Google Play services: 22.18.19
 - [Beta 2.1](https://developer.android.com/about/versions/13/release-notes#beta-2.1) (TPBB.220414.018) - 2022-05-26
   - Google Play services: 22.14.13
 - [Beta 2](https://developer.android.com/about/versions/13/release-notes#beta-2) (TPBB.220414.015) - 2022-05-11
-  - Google Play services: 22.14.13
 - [Beta 1](https://developer.android.com/about/versions/13/release-notes#about-beta1) (TPB1.220310.029) - 2022-04-26
   - Google Play services: 22.09.20
 - [Developer Preview 2](https://developer.android.com/about/versions/13/release-notes#about-dp2) (TPP2.220218.010) - 2022-03-17
