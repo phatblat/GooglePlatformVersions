@@ -29,6 +29,7 @@ done up to
 
 ## Electric Eel (2022.1.1)
 
+- [Canary 5](https://androidstudio.googleblog.com/2022/06/android-studio-electric-eel-canary-5.html) (221.4165.146.2211.8713749) - 2022-06-20
 - [Canary 4](https://androidstudio.googleblog.com/2022/06/android-studio-electric-eel-canary-4.html) (221.3427.89.2211.8689873) - 2022-06-13
 - [Canary 3](https://androidstudio.googleblog.com/2022/06/android-studio-electric-eel-canary-3.html) (213.7172.25.2211.8624637) - 2022-06-06
 - [Canary 2](https://androidstudio.googleblog.com/2022/05/android-studio-electric-eel-canary-2.html) (213.7172.25.2211.8571212) - 2022-05-13
