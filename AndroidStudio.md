@@ -37,6 +37,7 @@ done up to
 
 ## Dolphin (2021.3.1)
 
+- [Beta 4](https://androidstudio.googleblog.com/2022/06/android-studio-dolphin-beta-4-now.html) (213.7172.25.2113.8718688) - 2022-06-22
 - [Beta 3](https://androidstudio.googleblog.com/2022/06/android-studio-dolphin-beta-3-now.html) (213.7172.25.2113.8684940) - 2022-06-13
 - [Beta 2](https://androidstudio.googleblog.com/2022/06/android-studio-dolphin-beta-2-now.html) (213.7172.25.2113.8622536) - 2022-06-06
 - [Beta 1](https://androidstudio.googleblog.com/2022/05/android-studio-dolphin-beta-1-now.html) (213.7172.25.2113.?) - 2022-04-11
