@@ -60,6 +60,7 @@ done up to
 
 - AGP 3.2 or higher
 
+- [Patch 2](https://androidstudio.googleblog.com/2022/08/android-studio-chipmunk-202121-patch-2.html) (212.5712.43.2112.8815526) - 2022-08-03
 - [Patch 1](https://androidstudio.googleblog.com/2022/05/android-studio-chipmunk-202121-patch-1.html) (212.5712.43.2112.8609683) - 2022-05-25
 - **[Stable](https://androidstudio.googleblog.com/2022/05/android-studio-chipmunk-available-in.html)** (212.5712.43.2112.8512546) - 2022-05-09
 - [RC 2](https://androidstudio.googleblog.com/2022/05/android-studio-chipmunk-rc2-now.html) (212.5712.43.2112.8504664) - 2022-05-03
