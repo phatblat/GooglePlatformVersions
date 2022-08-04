@@ -9,6 +9,8 @@ section of the Android Developer portal.
 
 https://developer.android.com/about/versions/13/overview
 
+- [Beta 4.1](https://developer.android.com/about/versions/13/release-notes#beta-4.1) (TPB4.220624.008) - 2022-07-25
+  - TPB4.220624.008.A2 (Pixel 6a only) - 2022-08-01
 - [Beta 4](https://developer.android.com/about/versions/13/release-notes#beta-4) (TPB4.220624.005) - 2022-07-13
 - [Beta 3.3](https://developer.android.com/about/versions/13/release-notes#beta-3.3) (TPB3.220617.002) - 2022-06-27
 - [Beta 3.2](https://developer.android.com/about/versions/13/release-notes#beta-3.2) (TPB3.220610.004) - 2022-06-16
