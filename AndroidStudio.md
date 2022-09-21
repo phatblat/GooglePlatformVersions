@@ -27,6 +27,10 @@ done up to
 ► 2017 (48)
 ► 2016 (5)
 
+## Flamingo (2022.1.1)
+
+- [Canary 1](https://androidstudio.googleblog.com/2022/09/android-studio-flamingo-1.html) (222.3739.54.2221.9043926) - 2022-09-20?
+
 ## Electric Eel (2022.1.1)
 
 - [Beta 1](https://androidstudio.googleblog.com/2022/09/android-studio-electric-eel-beta-1.html) (221.6008.13.2211.9039819) - 2022-09-20?
