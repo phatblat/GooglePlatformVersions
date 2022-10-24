@@ -37,6 +37,7 @@ done up to
 
 ## Electric Eel (2022.1.1)
 
+- [Beta 3](https://androidstudio.googleblog.com/2022/10/android-studio-electric-eel-beta-3-now.html) (221.6008.13.2211.9173235) - 2022-10-24
 - [Beta 2](https://androidstudio.googleblog.com/2022/10/android-studio-electric-eel-beta-2-now.html) (221.6008.13.2211.9113387) - 2022-10-03
 - [Beta 1](https://androidstudio.googleblog.com/2022/09/android-studio-electric-eel-beta-1-now.html) (221.6008.13.2211.9039819) - 2022-09-22
 - [Canary 10](https://androidstudio.googleblog.com/2022/08/android-studio-electric-eel-canary-10.html) (221.6008.13.2211.8963757) - 2022-08-26
