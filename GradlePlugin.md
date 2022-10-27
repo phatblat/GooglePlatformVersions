@@ -2,6 +2,19 @@
 
 Android Gradle Plugin [release notes](https://developer.android.com/studio/releases/gradle-plugin)
 
+## 7.2
+
+### 7.2 Compatibility
+
+- Gradle 7.3.3
+- SDK Build Tools 30.0.3
+- NDK 21.4.7075529 (default version)
+- JDK 11
+
+- [7.2.2](https://developer.android.com/studio/releases/gradle-plugin#7-2-0) - 2022-08
+- [7.2.1](https://developer.android.com/studio/releases/gradle-plugin#7-2-0) - 2022-05
+- [7.2.0](https://developer.android.com/studio/releases/gradle-plugin#7-2-0) - 2022-05
+
 ## 7.1
 
 ### 7.1 Compatibility
@@ -11,8 +24,6 @@ Android Gradle Plugin [release notes](https://developer.android.com/studio/relea
 - NDK 21.4.7075529 (default version)
 - JDK 11
 
-- [7.2.1](https://developer.android.com/studio/releases/gradle-plugin#7-2-0) - 2022-05
-- [7.2.0](https://developer.android.com/studio/releases/gradle-plugin#7-2-0) - 2022-05
 - [7.1.3](https://developer.android.com/studio/releases/gradle-plugin#7-1-0) - 2022-04
 - [7.1.2](https://developer.android.com/studio/releases/gradle-plugin#7-1-0) - 2022-02
 - [7.1.1](https://developer.android.com/studio/releases/gradle-plugin#7-1-0) - 2022-02
