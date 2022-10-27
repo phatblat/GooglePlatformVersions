@@ -9,7 +9,8 @@ section of the Android Developer portal.
 
 https://developer.android.com/about/versions/13/overview
 
-- [QPR1 Beta 2](https://developer.android.com/about/versions/13/release-notes#beta1) (T1B2.220916.004) - 2022-10-05
+- [QPR1 Beta 3](https://developer.android.com/about/versions/13/release-notes#beta3) (T1B3.221003.003) - 2022-10-20
+- [QPR1 Beta 2](https://developer.android.com/about/versions/13/release-notes#beta2) (T1B2.220916.004) - 2022-10-05
 - [QPR1 Beta 1](https://developer.android.com/about/versions/13/release-notes#beta1) (T1B1.220819.006) - 2022-09-08
   - T1B1.220819.007 (Pixel 6a only) - 2022-09-08
   - Google Play services: 22.26.15
