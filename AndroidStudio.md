@@ -1,4 +1,4 @@
-# Android Studio
+# 🤖 Android Studio
 
 The latest version of Android Studio can be downloaded from the
 [Android Studio](https://developer.android.com/studio) page, while
@@ -29,6 +29,7 @@ done up to
 
 ## Flamingo (2022.2.1)
 
+- [Canary 9](https://androidstudio.googleblog.com/2022/11/android-studio-flamingo-canary-9-now.html) (222.4345.14.2221.9321504) - 2022-11-30
 - [Canary 8](https://androidstudio.googleblog.com/2022/11/android-studio-flamingo-canary-8-now.html) (222.4345.14.2221.9252092) - 2022-11-07
 - [Canary 7](https://androidstudio.googleblog.com/2022/11/android-studio-flamingo-canary-7-now.html) (222.4345.14.2221.9228443) - 2022-11-03
 - [Canary 6](https://androidstudio.googleblog.com/2022/10/android-studio-flamingo-canary-6-now.html) (222.4345.14.2221.9189903) - 2022-10-24
