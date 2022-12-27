@@ -1,4 +1,4 @@
-# Android SDK Platform 👡
+# 👡 Android SDK Platform
 
 - [High level release notes](https://developer.android.com/studio/releases/platforms)
 
