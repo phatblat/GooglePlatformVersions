@@ -29,6 +29,7 @@ done up to
 
 ## Flamingo (2022.2.1)
 
+- [Canary 11](https://androidstudio.googleblog.com/2023/01/android-studio-flamingo-canary-11-now.html) (222.4459.24.2221.9445173) - 2022-01-04
 - [Canary 10](https://androidstudio.googleblog.com/2022/12/android-studio-flamingo-canary-10-now.html) (222.4459.24.2221.9409768) - 2022-12-21
 - [Canary 9](https://androidstudio.googleblog.com/2022/11/android-studio-flamingo-canary-9-now.html) (222.4345.14.2221.9321504) - 2022-11-30
 - [Canary 8](https://androidstudio.googleblog.com/2022/11/android-studio-flamingo-canary-8-now.html) (222.4345.14.2221.9252092) - 2022-11-07
