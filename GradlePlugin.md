@@ -3,6 +3,17 @@
 Android Gradle Plugin [release notes](https://developer.android.com/studio/releases/gradle-plugin)
 [@AGPVersions](https://twitter.com/agpversions)
 
+## 7.4
+
+- [7.4](https://developer.android.com/studio/releases/gradle-plugin#7-4-0) - 2022-12
+
+### 7.4 Compatibility
+
+- Gradle 7.5 minimum
+- SDK Build Tools 30.0.3
+- NDK 23.1.7779620 (default version)
+- JDK 11
+
 ## 7.3
 
 - [7.3.1](https://developer.android.com/studio/releases/gradle-plugin#7-3-0) - 2022-10-13
