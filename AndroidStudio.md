@@ -27,10 +27,14 @@ done up to
 ► 2017 (48)
 ► 2016 (5)
 
+## Giraffe (2022.3.1)
+
+- [Canary 1](https://androidstudio.googleblog.com/2023/01/android-studio-giraffe-canary-1-now.html) (223.4884.69.2231.9486165) - 2023-01-17
+
 ## Flamingo (2022.2.1)
 
-- [Beta 1](https://androidstudio.googleblog.com/2023/01/android-studio-flamingo-beta-1-now.html) (222.4459.24.2221.9471578) - 2022-01-17
-- [Canary 11](https://androidstudio.googleblog.com/2023/01/android-studio-flamingo-canary-11-now.html) (222.4459.24.2221.9445173) - 2022-01-04
+- [Beta 1](https://androidstudio.googleblog.com/2023/01/android-studio-flamingo-beta-1-now.html) (222.4459.24.2221.9471578) - 2023-01-17
+- [Canary 11](https://androidstudio.googleblog.com/2023/01/android-studio-flamingo-canary-11-now.html) (222.4459.24.2221.9445173) - 2023-01-04
 - [Canary 10](https://androidstudio.googleblog.com/2022/12/android-studio-flamingo-canary-10-now.html) (222.4459.24.2221.9409768) - 2022-12-21
 - [Canary 9](https://androidstudio.googleblog.com/2022/11/android-studio-flamingo-canary-9-now.html) (222.4345.14.2221.9321504) - 2022-11-30
 - [Canary 8](https://androidstudio.googleblog.com/2022/11/android-studio-flamingo-canary-8-now.html) (222.4345.14.2221.9252092) - 2022-11-07
@@ -44,7 +48,7 @@ done up to
 
 ## Electric Eel (2022.1.1)
 
-- [Stable](https://androidstudio.googleblog.com/2023/01/android-studio-electric-eel-available.html) (221.6008.13.2211.9477386) - 2022-01-13
+- [Stable](https://androidstudio.googleblog.com/2023/01/android-studio-electric-eel-available.html) (221.6008.13.2211.9477386) - 2023-01-13
 - [RC 3](https://androidstudio.googleblog.com/2022/12/android-studio-electric-eel-rc3-now.html) (221.6008.13.2211.9424903) - 2022-12-27
 - [RC 2](https://androidstudio.googleblog.com/2022/12/android-studio-electric-eel-rc2-now.html) (221.6008.13.2211.9392097) - 2022-12-21
 - [RC 1](https://androidstudio.googleblog.com/2022/11/android-studio-electric-eel-rc1-now.html) (221.6008.13.2211.9301383) - 2022-11-30
