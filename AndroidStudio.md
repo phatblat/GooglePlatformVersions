@@ -29,6 +29,7 @@ done up to
 
 ## Giraffe (2022.3.1)
 
+- [Canary 2](https://androidstudio.googleblog.com/2023/01/android-studio-giraffe-canary-2-now.html) (223.7571.182.2231.9523943) - 2023-01-26
 - [Canary 1](https://androidstudio.googleblog.com/2023/01/android-studio-giraffe-canary-1-now.html) (223.4884.69.2231.9486165) - 2023-01-17
 
 ## Flamingo (2022.2.1)
