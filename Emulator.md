@@ -6,6 +6,7 @@ Versions of the emulator prior to 25.3.0 were distributed as part of the Android
 
 ## 31
 
+- [31.3.12](https://developer.android.com/studio/releases/emulator#31-3-12) - 2022-10-10
 - [31.3.11](https://developer.android.com/studio/releases/emulator#31-3-11) - 2022-09-23
 - [31.3.10](https://developer.android.com/studio/releases/emulator#31-3-10) - 2022-08-18
 - [31.2.10](https://developer.android.com/studio/releases/emulator#31-2-10) - 2022-04-20
