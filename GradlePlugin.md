@@ -5,6 +5,7 @@ Android Gradle Plugin [release notes](https://developer.android.com/studio/relea
 
 ## 7.4
 
+- [7.4.1](https://developer.android.com/studio/releases/gradle-plugin#android-gradle-plugin-7.4.1-february-2023) - 2023-02-03
 - [7.4](https://developer.android.com/studio/releases/gradle-plugin#7-4-0) - 2022-12
 
 ### 7.4 Compatibility
