@@ -36,6 +36,7 @@ done up to
 
 ## Flamingo (2022.2.1)
 
+- [Beta 2](https://androidstudio.googleblog.com/2023/02/android-studio-flamingo-beta-2-now.html) (222.4459.24.2221.9526055) - 2023-02-07
 - [Beta 1](https://androidstudio.googleblog.com/2023/01/android-studio-flamingo-beta-1-now.html) (222.4459.24.2221.9471578) - 2023-01-17
 - [Canary 11](https://androidstudio.googleblog.com/2023/01/android-studio-flamingo-canary-11-now.html) (222.4459.24.2221.9445173) - 2023-01-04
 - [Canary 10](https://androidstudio.googleblog.com/2022/12/android-studio-flamingo-canary-10-now.html) (222.4459.24.2221.9409768) - 2022-12-21
