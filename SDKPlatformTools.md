@@ -1,4 +1,4 @@
-# SDK Platform Tools
+# 🔨 SDK Platform Tools
 
 [release notes](https://developer.android.com/studio/releases/platforms)
 
@@ -11,6 +11,7 @@ Although some new features in these tools are available only for recent versions
 of Android, the tools are backward compatible, so you need only one version of
 the SDK Platform-Tools.
 
+- [34.0.0](https://developer.android.com/studio/releases/platform-tools#3300_february_2022) - 2023-02-13
 - 33.0.2 - 2022-05-26
 - 33.0.1 - 2022-03-18
 - **[33.0.0](https://developer.android.com/studio/releases/platform-tools#3300_february_2022)** - 2022-02
