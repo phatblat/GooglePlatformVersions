@@ -8,27 +8,9 @@ older versions can be downloaded from the
 High-level [release updates](https://androidstudio.googleblog.com) and
 [release notes](https://developer.android.com/studio/releases/) are listed separately.
 
-## WIP
-
-done up to
-
-2020s
-► September (6)
-► August (11)
-► July (14)
-► June (10)
-► May (12)
-► April (11)
-► March (11)
-► February (6)
-► January (8)
-► 2019 (145)
-► 2018 (128)
-► 2017 (48)
-► 2016 (5)
-
 ## Giraffe (2022.3.1)
 
+- [Canary 5](https://androidstudio.googleblog.com/2023/02/android-studio-giraffe-canary-5-is-now.html) (223.8214.52.2231.9601041) - 2023-02-16
 - [Canary 4](https://androidstudio.googleblog.com/2023/02/android-studio-giraffe-canary-4-now.html) (223.7571.182.2231.9569140) - 2023-02-09
 - [Canary 3](https://androidstudio.googleblog.com/2023/02/android-studio-giraffe-canary-3-now.html) (223.7571.182.2231.95?) - 2023-02-07
 - [Canary 2](https://androidstudio.googleblog.com/2023/01/android-studio-giraffe-canary-2-now.html) (223.7571.182.2231.9523943) - 2023-01-26
