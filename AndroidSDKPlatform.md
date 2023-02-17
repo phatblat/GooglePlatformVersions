@@ -9,6 +9,8 @@ section of the Android Developer portal.
 
 https://developer.android.com/about/versions/13/overview
 
+- [QPR2 Beta 3](https://developer.android.com/about/versions/13/release-notes#beta1) (T2B3.230109.002) - 2023-02-01
+  - Google Play services: 23.03.13
 - [QPR2 Beta 2.1](https://developer.android.com/about/versions/13/release-notes#beta1) (T2B2.221216.008) - 2023-01-20
   - Google Play services: 22.41.13
 - [QPR2 Beta 2](https://developer.android.com/about/versions/13/release-notes#beta1) (T2B2.221216.006) - 2023-01-09
