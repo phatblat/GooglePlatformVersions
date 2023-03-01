@@ -10,6 +10,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Giraffe (2022.3.1)
 
+- [Canary 7](https://androidstudio.googleblog.com/2023/02/android-studio-giraffe-canary-7-now.html) (223.8617.56.2231.9644228) - 2023-02-27
 - [Canary 6](https://androidstudio.googleblog.com/2023/02/android-studio-giraffe-canary-6-now.html) (223.8214.52.2231.9615888) - 2023-02-21
 - [Canary 5](https://androidstudio.googleblog.com/2023/02/android-studio-giraffe-canary-5-is-now.html) (223.8214.52.2231.9601041) - 2023-02-16
 - [Canary 4](https://androidstudio.googleblog.com/2023/02/android-studio-giraffe-canary-4-now.html) (223.7571.182.2231.9569140) - 2023-02-09
