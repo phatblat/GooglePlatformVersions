@@ -23,6 +23,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Flamingo (2022.2.1)
 
+- [RC 1](https://androidstudio.googleblog.com/2023/03/android-studio-flamingo-rc-1-now.html) (222.4459.24.2221.9787799) - 2023-03-27
 - [Beta 5](https://androidstudio.googleblog.com/2023/03/android-studio-flamingo-beta-5-now.html) (222.4459.24.2221.9682058) - 2023-03-09
 - [Beta 4](https://androidstudio.googleblog.com/2023/03/android-studio-flamingo-beta-4-is-now.html) (222.4459.24.2221.9645777) - 2023-03-02
 - [Beta 3](https://androidstudio.googleblog.com/2023/02/android-studio-flamingo-beta-3-is-now.html) (222.4459.24.2221.9601061) - 2023-02-16
