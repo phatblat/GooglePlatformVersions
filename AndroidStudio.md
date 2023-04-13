@@ -24,6 +24,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Flamingo (2022.2.1)
 
+- **[Stable](https://androidstudio.googleblog.com/2023/04/android-studio-flamingo-available.html?)** (222.4459.24.2221.9862592) - 2023-04-13
 - [RC 1](https://androidstudio.googleblog.com/2023/03/android-studio-flamingo-rc-1-now.html) (222.4459.24.2221.9787799) - 2023-03-27
 - [Beta 5](https://androidstudio.googleblog.com/2023/03/android-studio-flamingo-beta-5-now.html) (222.4459.24.2221.9682058) - 2023-03-09
 - [Beta 4](https://androidstudio.googleblog.com/2023/03/android-studio-flamingo-beta-4-is-now.html) (222.4459.24.2221.9645777) - 2023-03-02
@@ -46,7 +47,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 - [Patch 2](https://androidstudio.googleblog.com/2023/02/android-studio-electric-eel-202211.html) (221.6008.13.2211.9619390) - 2023-02-27
 - [Patch 1](https://androidstudio.googleblog.com/2023/02/android-studio-electric-eel-202221.html) (221.6008.13.2211.9514443) - 2023-02-01
-- **[**Stable](https://androidstudio.googleblog.com/2023/01/android-studio-electric-eel-available.html) (221.6008.13.2211.9477386) - 2023-01-13
+- **[Stable](https://androidstudio.googleblog.com/2023/01/android-studio-electric-eel-available.html)** (221.6008.13.2211.9477386) - 2023-01-13
 - [RC 3](https://androidstudio.googleblog.com/2022/12/android-studio-electric-eel-rc3-now.html) (221.6008.13.2211.9424903) - 2022-12-27
 - [RC 2](https://androidstudio.googleblog.com/2022/12/android-studio-electric-eel-rc2-now.html) (221.6008.13.2211.9392097) - 2022-12-21
 - [RC 1](https://androidstudio.googleblog.com/2022/11/android-studio-electric-eel-rc1-now.html) (221.6008.13.2211.9301383) - 2022-11-30
