@@ -8,6 +8,10 @@ older versions can be downloaded from the
 High-level [release updates](https://androidstudio.googleblog.com) and
 [release notes](https://developer.android.com/studio/releases/) are listed separately.
 
+## Hedgehog (2023.1.1)
+
+- [Canary 1](https://androidstudio.googleblog.com/2023/04/android-studio-hedgehog-canary-1-now.html) (223.8836.35.2311.9976484) - 2023-04-26
+
 ## Giraffe (2022.3.1)
 
 - [Beta 1](https://androidstudio.googleblog.com/2023/03/android-studio-giraffe-beta-1-now.html) (223.8836.35.2231.9923731) - 2023-04-20
