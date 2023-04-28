@@ -4,6 +4,10 @@ Emulator [release notes](https://developer.android.com/studio/releases/emulator)
 [Android Emulator](https://developer.android.com/studio/run/emulator.html) is included with Android Studio.
 Versions of the emulator prior to 25.3.0 were distributed as part of the Android SDK Tools.
 
+## 33
+
+- [33.1.5](https://androidstudio.googleblog.com/2023/04/android-studio-emulator-3315-canary-now.html) - 2023-04-24
+
 ## 32
 
 - [32.1.11](https://developer.android.com/studio/releases/emulator#31-3-14) - 2023-02-08
