@@ -1,7 +1,19 @@
-# Android Gradle Plugin
+# 🔌 Android Gradle Plugin
 
 Android Gradle Plugin [release notes](https://developer.android.com/studio/releases/gradle-plugin)
 [@AGPVersions](https://twitter.com/agpversions)
+
+## 8.0
+
+- [8.0.1](https://developer.android.com/build/releases/gradle-plugin#agp-8-0-1) - 2023-05-01
+- [8.0.0](https://developer.android.com/build/releases/gradle-plugin#8-0-0) - 2023-04
+
+### 8.0 Compatibility
+
+- Gradle 8.0 minimum
+- SDK Build Tools 30.0.3
+- NDK 25.1.8937383 (default version)
+- JDK 17
 
 ## 7.4
 
