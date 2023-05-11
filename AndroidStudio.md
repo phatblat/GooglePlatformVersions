@@ -10,6 +10,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Hedgehog (2023.1.1)
 
+- [Canary 3](https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-3-is-now.html) (223.8836.35.2311.9976484) - 2023-05-10
 - [Canary 2](https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-2-now.html) (231.6890.12.2311.10027519) - 2023-05-03
 - [Canary 1](https://androidstudio.googleblog.com/2023/04/android-studio-hedgehog-canary-1-now.html) (223.8836.35.2311.9976484) - 2023-04-26
 
