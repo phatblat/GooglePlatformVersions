@@ -19,6 +19,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Giraffe (2022.3.1)
 
+- [Beta 4](https://androidstudio.googleblog.com/2023/05/android-studio-giraffe-beta-4-now.html) (223.8836.35.2231.10190587) - 2023-05-30
 - [Beta 3](https://androidstudio.googleblog.com/2023/05/android-studio-giraffe-beta-3-now.html) (223.8836.35.2231.10075884) - 2023-05-16
 - [Beta 2](https://androidstudio.googleblog.com/2023/05/android-studio-giraffe-beta-2-now.html) (223.8836.35.2231.10023527) - 2023-05-08
 - [Beta 1](https://androidstudio.googleblog.com/2023/04/android-studio-giraffe-beta-1-now.html) (223.8836.35.2231.9923731) - 2023-04-20
