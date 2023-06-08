@@ -5,6 +5,7 @@ Android Gradle Plugin [release notes](https://developer.android.com/studio/relea
 
 ## 8.0
 
+- [8.0.2](https://developer.android.com/build/releases/gradle-plugin#agp-8-0-2) - [2023-05-24](https://mvnrepository.com/artifact/com.android.tools.build/gradle/8.0.2)
 - [8.0.1](https://developer.android.com/build/releases/gradle-plugin#agp-8-0-1) - 2023-05-01
 - [8.0.0](https://developer.android.com/build/releases/gradle-plugin#8-0-0) - 2023-04
 
