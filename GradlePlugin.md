@@ -1,7 +1,13 @@
 # 🔌 Android Gradle Plugin
 
 Android Gradle Plugin [release notes](https://developer.android.com/studio/releases/gradle-plugin)
-[@AGPVersions](https://twitter.com/agpversions)
+
+- twitter [@AGPVersions](https://twitter.com/agpversions)
+- [Andsroid Gradle plugin API updates](https://developer.android.com/build/releases/gradle-plugin-api-updates)
+
+## 8.1
+
+- [8.1.0](https://developer.android.com/build/releases/gradle-plugin#8-1-0) - 2023-07
 
 ## 8.0
 
