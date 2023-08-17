@@ -1,17 +1,16 @@
 # 🤖 Android Studio
 
-The latest version of Android Studio can be downloaded from the
-[Android Studio](https://developer.android.com/studio) page, while
-older versions can be downloaded from the
-[archives](https://developer.android.com/studio/archive).
+The latest version of Android Studio can be downloaded from the [Android Studio](https://developer.android.com/studio) page, while
+older versions can be downloaded from the [archives](https://developer.android.com/studio/archive).
 
 High-level [release updates](https://androidstudio.googleblog.com) and
 [release notes](https://developer.android.com/studio/releases/) are listed separately.
 
 ## Hedgehog (2023.1.1)
 
-- [Canary 15](https://androidstudio.googleblog.com/2023/07/android-studio-hedgehog-canary-15-now.html) (231.9225.16.2311.10572941) - 2023-07-31
-- [Canary 14](https://androidstudio.googleblog.com/2023/07/android-studio-hedgehog-canary-14-now.html) (231.9225.16.2311.10533651) - 2023-07-25
+- Canary 16 (231.9225.16.2311.10647019) - 2023-08-14
+- Canary 15 (231.9225.16.2311.10572941) - 2023-07-31
+- Canary 14 (231.9225.16.2311.10533651) - 2023-07-25
 - [Canary 13](https://androidstudio.googleblog.com/2023/07/android-studio-hedgehog-canary-13-now.html) (231.9161.38.2311.10491752) - 2023-07-18
 - [Canary 12](https://androidstudio.googleblog.com/2023/07/android-studio-hedgehog-canary-12-now.html) (231.9161.38.2311.10457801) - 2023-07-12
 - [Canary 11](https://androidstudio.googleblog.com/2023/07/android-studio-hedgehog-canary-11-now.html) (231.9161.38.2311.10413018) - 2023-07-10
