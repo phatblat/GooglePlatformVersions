@@ -8,6 +8,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Hedgehog (2023.1.1)
 
+- [Beta 1](https://androidstudio.googleblog.com/2023/08/android-studio-hedgehog-2023.html) (231.9392.1.2311.10680768) - 2023-08-24
 - Canary 16 (231.9225.16.2311.10647019) - 2023-08-14
 - Canary 15 (231.9225.16.2311.10572941) - 2023-07-31
 - Canary 14 (231.9225.16.2311.10533651) - 2023-07-25
