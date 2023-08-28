@@ -6,6 +6,10 @@ older versions can be downloaded from the [archives](https://developer.android.c
 High-level [release updates](https://androidstudio.googleblog.com) and
 [release notes](https://developer.android.com/studio/releases/) are listed separately.
 
+## Iguana (2023.2.1)
+
+- Canary 1 (232.8660.185.2321.10696284) - 2023-08-25
+
 ## Hedgehog (2023.1.1)
 
 - [Beta 1](https://androidstudio.googleblog.com/2023/08/android-studio-hedgehog-2023.html) (231.9392.1.2311.10680768) - 2023-08-24
