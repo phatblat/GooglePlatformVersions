@@ -14,6 +14,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Hedgehog (2023.1.1)
 
+- [Beta 4](https://androidstudio.googleblog.com/2023/09/android-studio-hedgehog-beta-4-now.html) (232.9559.62.2321.10773421) - 2023-09-07
 - [Beta 3](https://androidstudio.googleblog.com/2023/09/android-studio-hedgehog-beta-3-now.html) (231.9392.1.2311.10749307) - 2023-09-07
 - [Beta 2](https://androidstudio.googleblog.com/2023/09/android-studio-hedgehog-beta-2-now.html) (231.9392.1.2311.10717887) - 2023-09-05
 - [Beta 1](https://androidstudio.googleblog.com/2023/08/android-studio-hedgehog-2023.html) (231.9392.1.2311.10680768) - 2023-08-24
