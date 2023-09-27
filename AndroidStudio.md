@@ -8,15 +8,16 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Iguana (2023.2.1)
 
-- [Canary 4](https://androidstudio.googleblog.com/2023/09/android-studio-iguana-canary-4-now.html) (232.9921.47.2321.10809744) - 2023-09-20
+- [Canary 5](https://androidstudio.googleblog.com/2023/09/android-studio-iguana-canary-5-now.html) (232.9921.47.2321.10840167) - 2023-09-21
+- [Canary 4](https://androidstudio.googleblog.com/2023/09/android-studio-iguana-canary-4-now.html) (232.9921.47.2321.10809744) - 2023-09-15
 - [Canary 3](https://androidstudio.googleblog.com/2023/09/android-studio-iguana-canary-3-now.html) (232.9559.62.2321.10773421) - 2023-09-07
 - [Canary 2](https://androidstudio.googleblog.com/2023/09/android-studio-iguana-canary-2-now.html) (232.9559.62.2321.10749089) - 2023-09-05
 - [Canary 1](https://androidstudio.googleblog.com/2023/08/android-studio-iguana-canary-1-now.html) (232.8660.185.2321.10696284) - 2023-08-25
 
 ## Hedgehog (2023.1.1)
 
-- [Beta 5](https://androidstudio.googleblog.com/2023/09/android-studio-hedgehog-beta-5-now.html) (231.9392.1.2311.10809438) - 2023-09-07
-- [Beta 4](https://androidstudio.googleblog.com/2023/09/android-studio-hedgehog-beta-4-now.html) (231.9392.1.2311.10779794) - 2023-09-07
+- [Beta 5](https://androidstudio.googleblog.com/2023/09/android-studio-hedgehog-beta-5-now.html) (231.9392.1.2311.10809438) - 2023-09-21
+- [Beta 4](https://androidstudio.googleblog.com/2023/09/android-studio-hedgehog-beta-4-now.html) (231.9392.1.2311.10779794) - 2023-09-15
 - [Beta 3](https://androidstudio.googleblog.com/2023/09/android-studio-hedgehog-beta-3-now.html) (231.9392.1.2311.10749307) - 2023-09-07
 - [Beta 2](https://androidstudio.googleblog.com/2023/09/android-studio-hedgehog-beta-2-now.html) (231.9392.1.2311.10717887) - 2023-09-05
 - [Beta 1](https://androidstudio.googleblog.com/2023/08/android-studio-hedgehog-2023.html) (231.9392.1.2311.10680768) - 2023-08-24
