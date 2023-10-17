@@ -42,6 +42,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Giraffe (2022.3.1)
 
+- [Patch 2](https://androidstudio.googleblog.com/2023/09/android-studio-giraffe-patch-2-is-now.html) (223.8836.35.2231.10811636) - 2023-09-28
 - [Patch 1](https://androidstudio.googleblog.com/2023/08/android-studio-giraffe-patch-1-now.html) (223.8836.35.2231.10671973) - 2023-08-22
 - [Stable](https://androidstudio.googleblog.com/2023/07/android-studio-giraffe-now-available-in.html) (223.8836.35.2231.10406996) - 2023-07-25
 - [RC 1](https://androidstudio.googleblog.com/2023/06/android-studio-giraffe-rc1-now-available.html) (223.8836.35.2231.10320515) - 2023-06-20
