@@ -8,13 +8,16 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Iguana (2023.2.1)
 
-- [Canary 7](https://androidstudio.googleblog.com/2023/10/android-studio-iguana-202321-canary-7.html) (232.9921.47.2321.10905494) - 2023-10-05
-- [Canary 6](https://androidstudio.googleblog.com/2023/09/android-studio-iguana-202321-canary-6.html) (232.9921.47.2321.10875067) - 2023-09-28
-- [Canary 5](https://androidstudio.googleblog.com/2023/09/android-studio-iguana-canary-5-now.html) (232.9921.47.2321.10840167) - 2023-09-21
-- [Canary 4](https://androidstudio.googleblog.com/2023/09/android-studio-iguana-canary-4-now.html) (232.9921.47.2321.10809744) - 2023-09-15
-- [Canary 3](https://androidstudio.googleblog.com/2023/09/android-studio-iguana-canary-3-now.html) (232.9559.62.2321.10773421) - 2023-09-07
-- [Canary 2](https://androidstudio.googleblog.com/2023/09/android-studio-iguana-canary-2-now.html) (232.9559.62.2321.10749089) - 2023-09-05
-- [Canary 1](https://androidstudio.googleblog.com/2023/08/android-studio-iguana-canary-1-now.html) (232.8660.185.2321.10696284) - 2023-08-25
+- [Canary 10](https://androidstudio.googleblog.com/2023/10/android-studio-iguana-202321-canary-10.html) (2023.2.1.10, 232.10072.27.2321.10984096) - 2023-10-23
+- [Canary 9](https://androidstudio.googleblog.com/2023/10/android-studio-iguana-202321-canary-9.html) (2023.2.1.9, 232.10072.27.2321.10977308) - 2023-10-19
+- [Canary 8](https://androidstudio.googleblog.com/2023/10/android-studio-iguana-202321-canary-8.html) (2023.2.1.8, 232.9921.47.2321.10958940) - 2023-10-19
+- [Canary 7](https://androidstudio.googleblog.com/2023/10/android-studio-iguana-202321-canary-7.html) (2023.2.1.7, 232.9921.47.2321.10905494) - 2023-10-05
+- [Canary 6](https://androidstudio.googleblog.com/2023/09/android-studio-iguana-202321-canary-6.html) (2023.2.1.6, 232.9921.47.2321.10875067) - 2023-09-28
+- [Canary 5](https://androidstudio.googleblog.com/2023/09/android-studio-iguana-canary-5-now.html) (2023.2.1.5, 232.9921.47.2321.10840167) - 2023-09-21
+- [Canary 4](https://androidstudio.googleblog.com/2023/09/android-studio-iguana-canary-4-now.html) (2023.2.1.4, 232.9921.47.2321.10809744) - 2023-09-15
+- [Canary 3](https://androidstudio.googleblog.com/2023/09/android-studio-iguana-canary-3-now.html) (2023.2.1.3, 232.9559.62.2321.10773421) - 2023-09-07
+- [Canary 2](https://androidstudio.googleblog.com/2023/09/android-studio-iguana-canary-2-now.html) (2023.2.1.2, 232.9559.62.2321.10749089) - 2023-09-05
+- [Canary 1](https://androidstudio.googleblog.com/2023/08/android-studio-iguana-canary-1-now.html) (2023.2.1.1, 232.8660.185.2321.10696284) - 2023-08-25
 
 ## Hedgehog (2023.1.1)
 
