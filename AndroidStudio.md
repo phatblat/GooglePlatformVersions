@@ -8,6 +8,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Iguana (2023.2.1)
 
+- [Canary 11](https://androidstudio.googleblog.com/2023/10/android-studio-iguana-202321-canary-10.html) (2023.2.1.11, 232.10072.27.2321.11006994) - 2023-10-26
 - [Canary 10](https://androidstudio.googleblog.com/2023/10/android-studio-iguana-202321-canary-10.html) (2023.2.1.10, 232.10072.27.2321.10984096) - 2023-10-23
 - [Canary 9](https://androidstudio.googleblog.com/2023/10/android-studio-iguana-202321-canary-9.html) (2023.2.1.9, 232.10072.27.2321.10977308) - 2023-10-19
 - [Canary 8](https://androidstudio.googleblog.com/2023/10/android-studio-iguana-202321-canary-8.html) (2023.2.1.8, 232.9921.47.2321.10958940) - 2023-10-19
