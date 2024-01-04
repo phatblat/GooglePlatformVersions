@@ -6,6 +6,10 @@ older versions can be downloaded from the [archives](https://developer.android.c
 High-level [release updates](https://androidstudio.googleblog.com) and
 [release notes](https://developer.android.com/studio/releases/) are listed separately.
 
+## Jellyfish (2023.3.1)
+
+- [Canary 2](https://androidstudio.googleblog.com/2024/01/android-studio-jellyfish-202331-canary.html) (233.13135.103.2331.11259770) - 2023-01-02
+
 ## Iguana (2023.2.1)
 
 - [Canary 17](https://androidstudio.googleblog.com/2023/12/android-studio-iguana-202321-canary-17.html) (2023.2.1.17, 232.10227.8.2321.11191411) - 2023-12-07
