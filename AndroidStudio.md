@@ -28,6 +28,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Hedgehog (2023.1.1)
 
+- [Patch 1](https://androidstudio.googleblog.com/2024/01/android-studio-hedgehog-202311-patch-1.html) (231.9392.1.2311.11255304) - 2024-01-03
 - [Stable](https://androidstudio.googleblog.com/2023/11/android-studio-hedgehog-202311-now.html) (231.9392.1.2311.11076708) - 2023-11-30
 - [RC 3](https://androidstudio.googleblog.com/2023/11/android-studio-hedgehog-202311-rc-3-now.html) (231.9392.1.2311.11047128) - 2023-11-09
 - [RC 2](https://androidstudio.googleblog.com/2023/10/android-studio-hedgehog-202311-rc-2-now.html) (231.9392.1.2311.10980684) - 2023-10-31
