@@ -2,6 +2,7 @@
 
 The latest version of Android Studio can be downloaded from the [Android Studio](https://developer.android.com/studio) page, while
 older versions can be downloaded from the [archives](https://developer.android.com/studio/archive).
+Exhaustive list of [Android Studio releases](https://plugins.jetbrains.com/docs/intellij/android-studio-releases-list.html).
 
 High-level [release updates](https://androidstudio.googleblog.com) and
 [release notes](https://developer.android.com/studio/releases/) are listed separately.
