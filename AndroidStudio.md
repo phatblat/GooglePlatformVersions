@@ -39,32 +39,34 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Hedgehog (2023.1.1)
 
-- [Patch 1](https://androidstudio.googleblog.com/2024/01/android-studio-hedgehog-202311-patch-1.html) (231.9392.1.2311.11255304) - 2024-01-03
-- [Stable](https://androidstudio.googleblog.com/2023/11/android-studio-hedgehog-202311-now.html) (231.9392.1.2311.11076708) - 2023-11-30
-- [RC 3](https://androidstudio.googleblog.com/2023/11/android-studio-hedgehog-202311-rc-3-now.html) (231.9392.1.2311.11047128) - 2023-11-09
-- [RC 2](https://androidstudio.googleblog.com/2023/10/android-studio-hedgehog-202311-rc-2-now.html) (231.9392.1.2311.10980684) - 2023-10-31
-- [RC 1](https://androidstudio.googleblog.com/2023/10/android-studio-hedgehog-202311-rc-1-now.html) (231.9392.1.2311.10844163) - 2023-10-17
-- [Beta 5](https://androidstudio.googleblog.com/2023/09/android-studio-hedgehog-beta-5-now.html) (231.9392.1.2311.10809438) - 2023-09-21
-- [Beta 4](https://androidstudio.googleblog.com/2023/09/android-studio-hedgehog-beta-4-now.html) (231.9392.1.2311.10779794) - 2023-09-15
-- [Beta 3](https://androidstudio.googleblog.com/2023/09/android-studio-hedgehog-beta-3-now.html) (231.9392.1.2311.10749307) - 2023-09-07
-- [Beta 2](https://androidstudio.googleblog.com/2023/09/android-studio-hedgehog-beta-2-now.html) (231.9392.1.2311.10717887) - 2023-09-05
-- [Beta 1](https://androidstudio.googleblog.com/2023/08/android-studio-hedgehog-2023.html) (231.9392.1.2311.10680768) - 2023-08-24
-- Canary 16 (231.9225.16.2311.10647019) - 2023-08-14
-- Canary 15 (231.9225.16.2311.10572941) - 2023-07-31
-- Canary 14 (231.9225.16.2311.10533651) - 2023-07-25
-- [Canary 13](https://androidstudio.googleblog.com/2023/07/android-studio-hedgehog-canary-13-now.html) (231.9161.38.2311.10491752) - 2023-07-18
-- [Canary 12](https://androidstudio.googleblog.com/2023/07/android-studio-hedgehog-canary-12-now.html) (231.9161.38.2311.10457801) - 2023-07-12
-- [Canary 11](https://androidstudio.googleblog.com/2023/07/android-studio-hedgehog-canary-11-now.html) (231.9161.38.2311.10413018) - 2023-07-10
-- [Canary 10](https://androidstudio.googleblog.com/2023/06/android-studio-hedgehog-canary-10-now.html) (231.9011.34.2311.10366083) - 2023-06-27
-- [Canary 9](https://androidstudio.googleblog.com/2023/06/android-studio-hedgehog-canary-9-now.html) (231.9011.34.2311.10335024) - 2023-06-20
-- [Canary 8](https://androidstudio.googleblog.com/2023/06/android-studio-hedgehog-canary-8-now.html) (231.9011.34.2311.10290408) - 2023-06-13
-- [Canary 7](https://androidstudio.googleblog.com/2023/06/android-studio-hedgehog-canary-7-now.html) (231.9011.34.2311.10238683) - 2023-06-06
-- [Canary 6](https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-6-now.html) (231.8109.175.2311.10205233) - 2023-05-30
-- [Canary 5](https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-5-now.html) (231.7864.76.2311.10195651) - 2023-05-25
-- [Canary 4](https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-4-now.html) (231.7864.76.2311.10114981) - 2023-05-16
-- [Canary 3](https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-3-is-now.html) (223.8836.35.2311.9976484) - 2023-05-10
-- [Canary 2](https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-2-now.html) (231.6890.12.2311.10027519) - 2023-05-03
-- [Canary 1](https://androidstudio.googleblog.com/2023/04/android-studio-hedgehog-canary-1-now.html) (223.8836.35.2311.9976484) - 2023-04-26
+- [Patch 2](https://androidstudio.googleblog.com/2024/01/android-studio-hedgehog-202311-patch-2.html) (2023.1.1.28, 231.9392.1.2311.11330709) - 2024-01-23
+- [Patch 1](https://androidstudio.googleblog.com/2024/01/android-studio-hedgehog-202311-patch-1.html) (2023.1.1.27, 231.9392.1.2311.11255304) - 2024-01-03
+- [Stable](https://androidstudio.googleblog.com/2023/11/android-studio-hedgehog-202311-now.html) (2023.1.1.26, 231.9392.1.2311.11076708) - 2023-11-30
+- [RC 3](https://androidstudio.googleblog.com/2023/11/android-studio-hedgehog-202311-rc-3-now.html) (2023.1.1.25, 231.9392.1.2311.11047128) - 2023-11-09
+- [RC 2](https://androidstudio.googleblog.com/2023/10/android-studio-hedgehog-202311-rc-2-now.html) (2023.1.1.24, 231.9392.1.2311.10980684) - 2023-10-31
+- [RC 1](https://androidstudio.googleblog.com/2023/10/android-studio-hedgehog-202311-rc-1-now.html) (2023.1.1.23, 231.9392.1.2311.10949950) - 2023-10-17
+- Beta 6 (2023.1.1.22, 231.9392.1.2311.10844163) - 2023-09-27
+- [Beta 5](https://androidstudio.googleblog.com/2023/09/android-studio-hedgehog-beta-5-now.html) (2023.1.1.21, 231.9392.1.2311.10809438) - 2023-09-21
+- [Beta 4](https://androidstudio.googleblog.com/2023/09/android-studio-hedgehog-beta-4-now.html) (2023.1.1.20, 231.9392.1.2311.10779794) - 2023-09-15
+- [Beta 3](https://androidstudio.googleblog.com/2023/09/android-studio-hedgehog-beta-3-now.html) (2023.1.1.19, 231.9392.1.2311.10749307) - 2023-09-07
+- [Beta 2](https://androidstudio.googleblog.com/2023/09/android-studio-hedgehog-beta-2-now.html) (2023.1.1.18, 231.9392.1.2311.10717887) - 2023-09-05
+- [Beta 1](https://androidstudio.googleblog.com/2023/08/android-studio-hedgehog-2023.html) (2023.1.1.17, 231.9392.1.2311.10680768) - 2023-08-24
+- Canary 16 (2023.1.1.16, 231.9225.16.2311.10647019) - 2023-08-14
+- Canary 15 (2023.1.1.15, 231.9225.16.2311.10572941) - 2023-07-31
+- Canary 14 (2023.1.1.14, 231.9225.16.2311.10533651) - 2023-07-25
+- [Canary 13](https://androidstudio.googleblog.com/2023/07/android-studio-hedgehog-canary-13-now.html) (2023.1.1.13, 231.9161.38.2311.10491752) - 2023-07-18
+- [Canary 12](https://androidstudio.googleblog.com/2023/07/android-studio-hedgehog-canary-12-now.html) (2023.1.1.12, 231.9161.38.2311.10457801) - 2023-07-12
+- [Canary 11](https://androidstudio.googleblog.com/2023/07/android-studio-hedgehog-canary-11-now.html) (2023.1.1.11, 231.9161.38.2311.10413018) - 2023-07-10
+- [Canary 10](https://androidstudio.googleblog.com/2023/06/android-studio-hedgehog-canary-10-now.html) (2023.1.1.10, 231.9011.34.2311.10366083) - 2023-06-27
+- [Canary 9](https://androidstudio.googleblog.com/2023/06/android-studio-hedgehog-canary-9-now.html) (2023.1.1.9, 231.9011.34.2311.10335024) - 2023-06-20
+- [Canary 8](https://androidstudio.googleblog.com/2023/06/android-studio-hedgehog-canary-8-now.html) (2023.1.1.8, 231.9011.34.2311.10290408) - 2023-06-13
+- [Canary 7](https://androidstudio.googleblog.com/2023/06/android-studio-hedgehog-canary-7-now.html) (2023.1.1.7, 231.9011.34.2311.10238683) - 2023-06-06
+- [Canary 6](https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-6-now.html) (2023.1.1.6, 231.8109.175.2311.10205233) - 2023-05-30
+- [Canary 5](https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-5-now.html) (2023.1.1.5, 231.7864.76.2311.10195651) - 2023-05-25
+- [Canary 4](https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-4-now.html) (2023.1.1.4, 231.7864.76.2311.10114981) - 2023-05-16
+- [Canary 3](https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-3-is-now.html) (2023.1.1.3, 223.8836.35.2311.9976484) - 2023-05-10
+- [Canary 2](https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-2-now.html) (2023.1.1.2, 231.6890.12.2311.10027519) - 2023-05-03
+- [Canary 1](https://androidstudio.googleblog.com/2023/04/android-studio-hedgehog-canary-1-now.html) (2023.1.1.1, 223.8836.35.2311.9976484) - 2023-04-26
 
 ## Giraffe (2022.3.1)
 
