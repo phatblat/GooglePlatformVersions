@@ -5,6 +5,34 @@ Android Gradle Plugin [release notes](https://developer.android.com/studio/relea
 - twitter [@AGPVersions](https://twitter.com/agpversions)
 - [Andsroid Gradle plugin API updates](https://developer.android.com/build/releases/gradle-plugin-api-updates)
 
+## 8.2
+
+- [8.2.2](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-|-2023.1.1-patch-2) - 2024-01-23
+- [8.2.1](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-|-2023.1.1-patch-1) - 2024-01-03
+- [8.2.0-rc03](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-|-2023.1.1-rc-3) - 2023-11-09
+- [8.2.0-rc02](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-|-2023.1.1-rc-2) - 2023-10-31
+- [8.2.0-rc01](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-|-2023.1.1-rc-1) - 2023-10-17
+- [8.2.0-beta05](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-|-2023.1.1-beta-5) - 2023-09-21
+- [8.2.0-beta04](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-|-2023.1.1-beta-4) - 2023-09-15
+- [8.2.0-beta03](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-|-2023.1.1-beta-3) - 2023-09-07
+- [8.2.0-beta02](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-|-2023.1.1-beta-2) - 2023-09-05
+- [8.2.0-beta01](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-|-2023.1.1-beta-1) - 2023-08-24
+- [8.2.0-alpha15](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-|-2023.1.1-canary-15) - 2023-07-31
+- [8.2.0-alpha14](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-canary-14-2023.1.1.14) - 2023-07-25
+- [8.2.0-alpha13](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-canary-13-2023.1.1.13) - 2023-07-18
+- [8.2.0-alpha12](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-canary-12-2023.1.1.12) - 2023-07-12
+- [8.2.0-alpha11](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-canary-11-2023.1.1.11) - 2023-07-10
+- [8.2.0-alpha10](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-canary-10-2023.1.1.10) - 2023-06-27
+- [8.2.0-alpha09](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-canary-9-2023.1.1.9) - 2023-06-20
+- [8.2.0-alpha08](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-canary-8-2023.1.1.8) - 2023-06-13
+- [8.2.0-alpha07](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-canary-7-2023.1.1.7) - 2023-06-06
+- [8.2.0-alpha06](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-canary-6-2023.1.1.6) - 2023-05-30
+- [8.2.0-alpha05](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-canary-5-2023.1.1.5) - 2023-05-25
+- [8.2.0-alpha04](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-canary-4-2023.1.1.4) - 2023-05-16
+- [8.2.0-alpha03](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-canary-3-2023.1.1.3) - 2023-05-10
+- [8.2.0-alpha02](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-canary-2-2023.1.1.2) - 2023-05-03
+- [8.2.0-alpha01](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-canary-1-2023.1.1.1) - 2023-04-26
+
 ## 8.1
 
 - [8.1.0](https://developer.android.com/build/releases/gradle-plugin#8-1-0) - 2023-07
