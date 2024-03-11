@@ -9,10 +9,11 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Jellyfish (2023.3.1)
 
-- [Canary 12](https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary_29.html) (2023.3.1.12, 233.14015.106.2331.?) - 2024-02-29
-- [Canary 11](https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary_22.html) (2023.3.1.11, 233.14015.106.2331.?) - 2024-02-22
-- [Canary 10](https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary_16.html) (2023.3.1.10, 233.14015.106.2331.?) - 2024-02-16
-- [Canary 9](https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary_8.html) (2023.3.1.9, 233.14015.106.2331.?) - 2024-02-08
+- [Canary 13](https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary_29.html) (2023.3.1.13, 233.14475.28.2331.11543046) - 2024-03-07
+- [Canary 12](https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary_29.html) (2023.3.1.12, 233.14475.28.2331.11514062) - 2024-02-29
+- [Canary 11](https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary_22.html) (2023.3.1.11, 233.14475.28.2331.11483111) - 2024-02-22
+- [Canary 10](https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary_16.html) (2023.3.1.10, 233.14475.28.2331.11456607) - 2024-02-16
+- [Canary 9](https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary_8.html) (2023.3.1.9, 233.14015.106.2331.11423272) - 2024-02-08
 - [Canary 8](https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary.html) (2023.3.1.8, 233.14015.106.2331.11392117) - 2024-02-05
 - [Canary 7](https://androidstudio.googleblog.com/2024/01/android-studio-jellyfish-202331-canary_26.html) (2023.3.1.7, 233.13135.103.2331.11360849) - 2024-01-26
 - [Canary 6](https://androidstudio.googleblog.com/2024/01/android-studio-jellyfish-202331-canary_24.html) (2023.3.1.6, 233.13135.103.2331.11350331) - 2024-01-24
