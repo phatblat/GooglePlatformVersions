@@ -25,8 +25,8 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Iguana (2023.2.1)
 
-- [Stable](https://androidstudio.googleblog.com/2024/02/android-studio-iguana-202321-now.html) (2023.2.1.23, 232.10227.8.2321.?) - 2024-02-29
-- [RC 2](https://androidstudio.googleblog.com/2024/02/android-studio-iguana-202321-rc-2-now.html) (2023.2.1.22, 232.10227.8.2321.?) - 2024-02-13
+- [Stable](https://androidstudio.googleblog.com/2024/02/android-studio-iguana-202321-now.html) (2023.2.1.23, 232.10227.8.2321.11479570) - 2024-02-29
+- [RC 2](https://androidstudio.googleblog.com/2024/02/android-studio-iguana-202321-rc-2-now.html) (2023.2.1.22, 232.10227.8.2321.11429013) - 2024-02-13
 - [RC 1](https://androidstudio.googleblog.com/2024/02/android-studio-iguana-202321-rc-1-now.html) (2023.2.1.21, 232.10227.8.2321.11379558) - 2024-02-05
 - [Beta 2](https://androidstudio.googleblog.com/2023/12/android-studio-iguana-202321-beta-1-now.html) (2023.2.1.20, 232.10227.8.2321.11280706) - 2024-01-10
 - [Beta 1](https://androidstudio.googleblog.com/2023/12/android-studio-iguana-202321-beta-1-now.html) (2023.2.1.19, 232.10227.8.2321.11231672) - 2023-12-26
@@ -101,7 +101,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 - [Canary 6](https://androidstudio.googleblog.com/2023/02/android-studio-giraffe-canary-6-now.html) (223.8214.52.2231.9615888) - 2023-02-21
 - [Canary 5](https://androidstudio.googleblog.com/2023/02/android-studio-giraffe-canary-5-is-now.html) (223.8214.52.2231.9601041) - 2023-02-16
 - [Canary 4](https://androidstudio.googleblog.com/2023/02/android-studio-giraffe-canary-4-now.html) (223.7571.182.2231.9569140) - 2023-02-09
-- [Canary 3](https://androidstudio.googleblog.com/2023/02/android-studio-giraffe-canary-3-now.html) (223.7571.182.2231.95?) - 2023-02-07
+- [Canary 3](https://androidstudio.googleblog.com/2023/02/android-studio-giraffe-canary-3-now.html) (223.7571.182.2231.9532861) - 2023-02-07
 - [Canary 2](https://androidstudio.googleblog.com/2023/01/android-studio-giraffe-canary-2-now.html) (223.7571.182.2231.9523943) - 2023-01-26
 - [Canary 1](https://androidstudio.googleblog.com/2023/01/android-studio-giraffe-canary-1-now.html) (223.4884.69.2231.9486165) - 2023-01-17
 
@@ -160,11 +160,11 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 - [Beta 4](https://androidstudio.googleblog.com/2022/06/android-studio-dolphin-beta-4-now.html) (213.7172.25.2113.8718688) - 2022-06-22
 - [Beta 3](https://androidstudio.googleblog.com/2022/06/android-studio-dolphin-beta-3-now.html) (213.7172.25.2113.8684940) - 2022-06-13
 - [Beta 2](https://androidstudio.googleblog.com/2022/06/android-studio-dolphin-beta-2-now.html) (213.7172.25.2113.8622536) - 2022-06-06
-- [Beta 1](https://androidstudio.googleblog.com/2022/05/android-studio-dolphin-beta-1-now.html) (213.7172.25.2113.?) - 2022-04-11
+- [Beta 1](https://androidstudio.googleblog.com/2022/05/android-studio-dolphin-beta-1-now.html) (213.7172.25.2113.8565817) - 2022-04-11
 - [Canary 9](https://androidstudio.googleblog.com/2022/04/android-studio-dolphin-canary-9-now.html) (213.7172.25.2113.8473230) - 2022-04-28
 - [Canary 8](https://androidstudio.googleblog.com/2022/04/android-studio-dolphin-canary-8-now.html) (213.7172.25.2113.8421465) - 2022-04-28
 - [Canary 7](https://androidstudio.googleblog.com/2022/03/android-studio-dolphin-canary-7-now.html) (213.6777.52.2113.8305692) - 2022-03-17
-- [Canary 6](https://androidstudio.googleblog.com/2022/03/android-studio-dolphin-canary-6-now.html) (213.5744.223.2113.8103819?) - 2022-03-14
+- [Canary 6](https://androidstudio.googleblog.com/2022/03/android-studio-dolphin-canary-6-now.html) (213.6777.52.2113.8265607) - 2022-03-14
 - [Canary 5](https://androidstudio.googleblog.com/2022/03/android-studio-dolphin-canary-5-now.html) - 2022-03-04
 - [Canary 4](https://androidstudio.googleblog.com/2022/03/android-studio-dolphin-canary-4-now.html) - 2022-03-03
 - [Canary 3](https://androidstudio.googleblog.com/2022/02/android-studio-dolphin-canary-3-now.html) - 2022-02-14
@@ -181,7 +181,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 - [RC 2](https://androidstudio.googleblog.com/2022/05/android-studio-chipmunk-rc2-now.html) (212.5712.43.2112.8504664) - 2022-05-03
 - [RC 1](https://androidstudio.googleblog.com/2022/04/android-studio-chipmunk-rc1-now.html) (212.5712.43.2112.8512546) - 2022-04-28
 - [Beta 4](https://androidstudio.googleblog.com/2022/03/android-studio-chipmunk-beta-4-now.html) (212.5712.43.2112.8233820) - 2022-03-09
-- [Beta 3](https://androidstudio.googleblog.com/2022/03/android-studio-chipmunk-beta-3-now.html) (212.5457.46.2112.8094850?) - 2022-03-01
+- [Beta 3](https://androidstudio.googleblog.com/2022/03/android-studio-chipmunk-beta-3-now.html) (212.5712.43.2112.8184640) - 2022-03-01
 - [Beta 2](https://androidstudio.googleblog.com/2022/02/android-studio-chipmunk-beta-2-now.html) - 2022-02-11
 - [Beta 1](https://androidstudio.googleblog.com/2022/01/android-studio-chipmunk-beta-1-now.html) - 2022-01-27
 - [Canary 7](https://androidstudio.googleblog.com/2022/01/android-studio-chipmunk-canary-7-now.html) - 2022-01-10
@@ -197,7 +197,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 - AGP 3.2 or higher
 
 - [Patch 3](https://androidstudio.googleblog.com/2022/04/android-studio-bumblebee-202111-patch-3.html) (211.7628.21.2111.8309675) - 2022-04-07
-- [Patch 2](https://androidstudio.googleblog.com/2022/02/android-studio-bumblebee-202111-patch-2.html) (211.7628.21.2111.8139111?) - 2022-02-23
+- [Patch 2](https://androidstudio.googleblog.com/2022/02/android-studio-bumblebee-202111-patch-2.html) (211.7628.21.2111.8193401) - 2022-02-23
 - [Patch 1](https://androidstudio.googleblog.com/2022/02/android-studio-bumblebee-202111-patch-1.html) - 2022-02-04
 - [RC 1](https://androidstudio.googleblog.com/2022/01/android-studio-bumblebee-rc-1-available.html) - 2022-01-04
 - [Beta 3](https://androidstudio.googleblog.com/2021/11/android-studio-bumblebee-beta-3-now.html) - 2021-11-09
