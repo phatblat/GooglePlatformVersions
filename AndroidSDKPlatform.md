@@ -1,6 +1,6 @@
 # 👡 Android SDK Platform
 
-- [High level release notes](https://developer.android.com/studio/releases/platforms)
+- [High level release notes](https://developer.android.com/about/versions)
 - [Android API Levels](https://apilevels.com/)
 
 Release notes for the latest preview can be found in the [preview](https://developer.android.com/preview/release-notes)
@@ -11,6 +11,12 @@ section of the Android Developer portal.
 - [DP1](https://developer.android.com/about/versions/15/release-notes#about-latest-build) (AP31.240119.016) - 2023-02-16
 
 ## Android 14 "Upside Down Cake" (API level 34)
+
+<https://developer.android.com/about/versions/14>
+
+- [QPR3 Beta 2](https://developer.android.com/about/versions/14/release-notes#beta2) (AP21.240216.010) - 2024-03-07
+- [QPR3 Beta 1](https://developer.android.com/about/versions/14/release-notes#beta1) (AP21.240119.009) - 2024-02-07
+- [QPR2](https://www.androidcentral.com/apps-software/google-pixel-march-2024-update) (AP1A.240305.019.A1) - 2023-03-04
 
 ## Android 13 "Tiramisu" (API level 33)
 
