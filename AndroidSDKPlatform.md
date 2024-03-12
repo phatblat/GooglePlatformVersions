@@ -1,13 +1,20 @@
 # 👡 Android SDK Platform
 
 - [High level release notes](https://developer.android.com/studio/releases/platforms)
+- [Android API Levels](https://apilevels.com/)
 
 Release notes for the latest preview can be found in the [preview](https://developer.android.com/preview/release-notes)
 section of the Android Developer portal.
 
+## Android 15 "Vannila Ice Cream" (API level 35)
+
+- [DP1](https://developer.android.com/about/versions/15/release-notes#about-latest-build) (AP31.240119.016) - 2023-02-16
+
+## Android 14 "Upside Down Cake" (API level 34)
+
 ## Android 13 "Tiramisu" (API level 33)
 
-https://developer.android.com/about/versions/13/overview
+<https://developer.android.com/about/versions/13/overview>
 
 - [QPR2 Beta 3.1](https://developer.android.com/about/versions/13/release-notes#beta-3.1) (T2B3.230109.004) - 2023-02-09
   - Google Play services: 23.03.13
@@ -57,7 +64,7 @@ Feature drop for foldables.
 
 ## Android 12 "S" (API level 31)
 
-https://developer.android.com/about/versions/12
+<https://developer.android.com/about/versions/12>
 
 - [12 QPR3 Beta 3](https://developer.android.com/about/versions/12/release-notes#beta-3) (S3B1.220420.005) - 2022-05-04
   - Google Play services: 22.09.20
