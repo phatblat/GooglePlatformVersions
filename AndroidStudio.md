@@ -25,6 +25,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Iguana (2023.2.1)
 
+- [Patch 1](https://androidstudio.googleblog.com/2024/03/android-studio-iguana-202321-patch-1.html) (2023.2.1.24, 232.10300.40.2321.11567975) - 2024-03-18
 - [Stable](https://androidstudio.googleblog.com/2024/02/android-studio-iguana-202321-now.html) (2023.2.1.23, 232.10227.8.2321.11479570) - 2024-02-29
 - [RC 2](https://androidstudio.googleblog.com/2024/02/android-studio-iguana-202321-rc-2-now.html) (2023.2.1.22, 232.10227.8.2321.11429013) - 2024-02-13
 - [RC 1](https://androidstudio.googleblog.com/2024/02/android-studio-iguana-202321-rc-1-now.html) (2023.2.1.21, 232.10227.8.2321.11379558) - 2024-02-05
