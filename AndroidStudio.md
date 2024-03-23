@@ -9,6 +9,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Koala (2023.3.2)
 
+- [Canary 2](https://androidstudio.googleblog.com/2024/03/android-studio-koala-202332-canary-2.html) (2023.3.2.2, 233.14475.28.2332.11606850) - 2024-03-22
 - [Canary 1](https://androidstudio.googleblog.com/2024/03/android-studio-jellyfish-202332-canary.html) (2023.3.2.1, 233.14475.28.2332.11578541) - 2024-03-19
 
 ## Jellyfish (2023.3.1)
