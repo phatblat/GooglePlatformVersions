@@ -9,6 +9,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Jellyfish (2023.3.1)
 
+- [Beta 1](https://androidstudio.googleblog.com/2024/03/android-studio-jellyfish-202331-beta-1.html) (2023.3.1.14, 233.14808.21.2331.11574862) - 2024-03-21
 - [Canary 13](https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary_29.html) (2023.3.1.13, 233.14475.28.2331.11543046) - 2024-03-07
 - [Canary 12](https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary_29.html) (2023.3.1.12, 233.14475.28.2331.11514062) - 2024-02-29
 - [Canary 11](https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary_22.html) (2023.3.1.11, 233.14475.28.2331.11483111) - 2024-02-22
