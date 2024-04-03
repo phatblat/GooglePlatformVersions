@@ -7,10 +7,11 @@ Exhaustive list of [Android Studio releases](https://plugins.jetbrains.com/docs/
 High-level [release updates](https://androidstudio.googleblog.com) and
 [release notes](https://developer.android.com/studio/releases/) are listed separately.
 
-## Koala (2023.3.2)
+## Koala (2024.1.1)
 
-- [Canary 2](https://androidstudio.googleblog.com/2024/03/android-studio-koala-202332-canary-2.html) (2023.3.2.2, 233.14475.28.2332.11606850) - 2024-03-22
-- [Canary 1](https://androidstudio.googleblog.com/2024/03/android-studio-jellyfish-202332-canary.html) (2023.3.2.1, 233.14475.28.2332.11578541) - 2024-03-19
+- [Canary 3](https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-3.html) (2024.1.1.3, 241.14494.158.2411.11648550) - 2024-04-02
+- [Canary 2](https://androidstudio.googleblog.com/2024/03/android-studio-koala-202332-canary-2.html) (2023.3.4.2, 233.14475.28.2332.11606850) - 2024-03-22
+- [Canary 1](https://androidstudio.googleblog.com/2024/03/android-studio-jellyfish-202332-canary.html) (2023.3.4.1, 233.14475.28.2332.11578541) - 2024-03-19
 
 ## Jellyfish (2023.3.1)
 
