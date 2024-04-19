@@ -5,6 +5,15 @@ Android Gradle Plugin [release notes](https://developer.android.com/studio/relea
 - twitter [@AGPVersions](https://twitter.com/agpversions)
 - [Andsroid Gradle plugin API updates](https://developer.android.com/build/releases/gradle-plugin-api-updates)
 
+## 8.3
+
+[Android Gradle plugin 8.3 release notes](https://developer.android.com/build/releases/gradle-plugin#updating-plugin)
+
+- [8.3.2](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.2.1#android-studio-iguana-%7C-2023.2.1-patch-2) - 2024-04
+  - released with Android Studio Iguana (2023.2.1) Patch 2
+- [8.3.1](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.2.1#android-studio-iguana-%7C-2023.2.1-patch-1) - 2024-03
+  - released with Android Studio Iguana (2023.2.1) Patch 1
+
 ## 8.2
 
 - [8.2.2](https://developer.android.com/studio/releases/fixed-bugs/studio/2023.1.1#android-studio-hedgehog-|-2023.1.1-patch-2) - 2024-01-23
