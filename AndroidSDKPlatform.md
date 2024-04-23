@@ -10,7 +10,8 @@ section of the Android Developer portal.
 
 - [Beta 1.1](https://developer.android.com/about/versions/15/release-notes#beta-1.1) (AP31.240322.023) - 2024-04-22
 - [Beta 1](https://developer.android.com/about/versions/15/release-notes#beta-1) (AP31.240322.018) - 2024-04-11
-- [DP1](https://developer.android.com/about/versions/15/release-notes#about-latest-build) (AP31.240119.016) - 2023-02-16
+- [DP2](https://developer.android.com/about/versions/15/release-notes#about-dp2) (AP31.240223.016.A3) - 2024-03-21
+- [DP1](https://developer.android.com/about/versions/15/release-notes#about-dp1) (AP31.240119.016) - 2024-02-16
 
 ## Android 14 "Upside Down Cake" (API level 34)
 
