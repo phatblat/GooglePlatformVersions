@@ -9,6 +9,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Koala (2024.1.1)
 
+- [Canary 8](https://androidstudio.googleblog.com/2024/05/android-studio-koala-202411-canary-8.html) (2024.1.1.8, 241.15989.150.2411.__BUILD_NUMBER__) - 2024-05-03
 - [Canary 7](https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-7.html) (2024.1.1.7, 241.14494.240.2411.11771556) - 2024-04-29
 - [Canary 6](https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-6.html) (2024.1.1.6, 241.14494.240.2411.11731683) - 2024-04-18
 - [Canary 5](https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-5.html) (2024.1.1.5, 241.14494.240.2411.11700778) - 2024-04-11
