@@ -1,0 +1,11 @@
+parser = "markdown"
+useTabs = false
+tabWidth = 4
+endOfLine = "lf"
+trailingComma = "es5"
+semi = false
+singleQuote = true
+printWidth = 160
+
+[markdown]
+emphasis = false # Disables formatting of emphasis (bold and italics)
