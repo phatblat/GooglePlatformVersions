@@ -2,14 +2,16 @@
 
 The latest version of Android Studio can be downloaded from the [Android Studio](https://developer.android.com/studio) page, while
 older versions can be downloaded from the [archives](https://developer.android.com/studio/archive).
-Exhaustive list of [Android Studio releases](https://plugins.jetbrains.com/docs/intellij/android-studio-releases-list.html).
+Exhaustive list of [Android Studio releases](https://plugins.jetbrains.com/docs/intellij/android-studio-releases-list.html)
+(no longer updated).
 
 High-level [release updates](https://androidstudio.googleblog.com) and
 [release notes](https://developer.android.com/studio/releases/) are listed separately.
 
 ## Koala (2024.1.1)
 
-- [Canary 8](https://androidstudio.googleblog.com/2024/05/android-studio-koala-202411-canary-8.html) (2024.1.1.8, 241.15989.150.2411.__BUILD_NUMBER__) - 2024-05-03
+- [Beta 1](https://androidstudio.googleblog.com/2024/05/android-studio-koala-202411-beta-1-now.html) (2024.1.1.9, 241.15989.150.2411.**BUILD_NUMBER**) - 2024-05-10
+- [Canary 8](https://androidstudio.googleblog.com/2024/05/android-studio-koala-202411-canary-8.html) (2024.1.1.8, 241.15989.150.2411.**BUILD_NUMBER**) - 2024-05-03
 - [Canary 7](https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-7.html) (2024.1.1.7, 241.14494.240.2411.11771556) - 2024-04-29
 - [Canary 6](https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-6.html) (2024.1.1.6, 241.14494.240.2411.11731683) - 2024-04-18
 - [Canary 5](https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-5.html) (2024.1.1.5, 241.14494.240.2411.11700778) - 2024-04-11
