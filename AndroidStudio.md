@@ -8,6 +8,11 @@ Exhaustive list of [Android Studio releases](https://plugins.jetbrains.com/docs/
 High-level [release updates](https://androidstudio.googleblog.com) and
 [release notes](https://developer.android.com/studio/releases/) are listed separately.
 
+## Koala Feature Drop (2024.1.2)
+
+- [Canary 2](https://androidstudio.googleblog.com/2024/05/android-studio-koala-feature-drop_17.html) (2024.1.1.2, 241.15989.150.2412.1185137) - 2024-05-17
+- [Canary 1](https://androidstudio.googleblog.com/2024/05/android-studio-koala-feature-drop.html) (2024.1.1.1, 241.15989.150.2412.**BUILD_NUMBER**) - 2024-05-14
+
 ## Koala (2024.1.1)
 
 - [Beta 1](https://androidstudio.googleblog.com/2024/05/android-studio-koala-202411-beta-1-now.html) (2024.1.1.9, 241.15989.150.2411.**BUILD_NUMBER**) - 2024-05-10
