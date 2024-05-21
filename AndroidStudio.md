@@ -2,27 +2,27 @@
 
 The latest version of Android Studio can be downloaded from the [Android Studio](https://developer.android.com/studio) page, while
 older versions can be downloaded from the [archives](https://developer.android.com/studio/archive).
-Exhaustive list of [Android Studio releases](https://plugins.jetbrains.com/docs/intellij/android-studio-releases-list.html)
-(no longer updated).
+Exhaustive list of [Android Studio releases](https://plugins.jetbrains.com/docs/intellij/android-studio-releases-list.html#2024)
+(deep link since `2024.*` is mis-ordered).
 
 High-level [release updates](https://androidstudio.googleblog.com) and
 [release notes](https://developer.android.com/studio/releases/) are listed separately.
 
 ## Koala Feature Drop (2024.1.2)
 
-- [Canary 2](https://androidstudio.googleblog.com/2024/05/android-studio-koala-feature-drop_17.html) (2024.1.1.2, 241.15989.150.2412.1185137) - 2024-05-17
-- [Canary 1](https://androidstudio.googleblog.com/2024/05/android-studio-koala-feature-drop.html) (2024.1.1.1, 241.15989.150.2412.**BUILD_NUMBER**) - 2024-05-14
+- [Canary 2](https://androidstudio.googleblog.com/2024/05/android-studio-koala-feature-drop_17.html) (2024.1.2.2, 241.15989.150.2412.11851376) - 2024-05-17
+- [Canary 1](https://androidstudio.googleblog.com/2024/05/android-studio-koala-feature-drop.html) (2024.1.2.1, 241.15989.150.2412.11822507) - 2024-05-14
 
 ## Koala (2024.1.1)
 
-- [Beta 2](https://androidstudio.googleblog.com/2024/05/android-studio-koala-202411-beta-2-now.html) (2024.1.1.10, 241.15989.150.2411.11840554) - 2024-05-15
-- [Beta 1](https://androidstudio.googleblog.com/2024/05/android-studio-koala-202411-beta-1-now.html) (2024.1.1.9, 241.15989.150.2411.**BUILD_NUMBER**) - 2024-05-10
-- [Canary 8](https://androidstudio.googleblog.com/2024/05/android-studio-koala-202411-canary-8.html) (2024.1.1.8, 241.15989.150.2411.**BUILD_NUMBER**) - 2024-05-03
-- [Canary 7](https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-7.html) (2024.1.1.7, 241.14494.240.2411.11771556) - 2024-04-29
-- [Canary 6](https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-6.html) (2024.1.1.6, 241.14494.240.2411.11731683) - 2024-04-18
-- [Canary 5](https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-5.html) (2024.1.1.5, 241.14494.240.2411.11700778) - 2024-04-11
-- [Canary 4](https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-4.html) (2024.1.1.4, 241.14494.158.2411.11678081) - 2024-04-08
-- [Canary 3](https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-3.html) (2024.1.1.3, 241.14494.158.2411.11648550) - 2024-04-02
+- [Beta 2](https://androidstudio.googleblog.com/2024/05/android-studio-koala-202411-beta-2-now.html) (2024.1.1.8, 241.15989.150.2411.11840554) - 2024-05-15
+- [Beta 1](https://androidstudio.googleblog.com/2024/05/android-studio-koala-202411-beta-1-now.html) (2024.1.1.7, 241.15989.150.2411.11801021) - 2024-05-10
+- [Canary 8](https://androidstudio.googleblog.com/2024/05/android-studio-koala-202411-canary-8.html) (2024.1.1.6, 241.15989.150.2411.11792637) - 2024-05-03
+- [Canary 7](https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-7.html) (2024.1.1.5, 241.14494.240.2411.11771556) - 2024-04-29
+- [Canary 6](https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-6.html) (2024.1.1.4, 241.14494.240.2411.11731683) - 2024-04-18
+- [Canary 5](https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-5.html) (2024.1.1.3, 241.14494.240.2411.11700778) - 2024-04-11
+- [Canary 4](https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-4.html) (2024.1.1.2, 241.14494.158.2411.11678081) - 2024-04-08
+- [Canary 3](https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-3.html) (2024.1.1.1, 241.14494.158.2411.11648550) - 2024-04-02
 - [Canary 2](https://androidstudio.googleblog.com/2024/03/android-studio-koala-202332-canary-2.html) (2023.3.2.2, 233.14475.28.2332.11606850) - 2024-03-22
 - [Canary 1](https://androidstudio.googleblog.com/2024/03/android-studio-jellyfish-202332-canary.html) (2023.3.2.1, 233.14475.28.2332.11578541) - 2024-03-19
 
