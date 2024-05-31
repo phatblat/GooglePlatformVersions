@@ -17,6 +17,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Koala (2024.1.1)
 
+- [RC 1](https://androidstudio.googleblog.com/2024/05/android-studio-koala-202411-rc-1-now.html) (2024.1.1.9, 241.15989.150.2411.11887322) - 2024-05-30
 - [Beta 2](https://androidstudio.googleblog.com/2024/05/android-studio-koala-202411-beta-2-now.html) (2024.1.1.8, 241.15989.150.2411.11840554) - 2024-05-15
 - [Beta 1](https://androidstudio.googleblog.com/2024/05/android-studio-koala-202411-beta-1-now.html) (2024.1.1.7, 241.15989.150.2411.11801021) - 2024-05-10
 - [Canary 8](https://androidstudio.googleblog.com/2024/05/android-studio-koala-202411-canary-8.html) (2024.1.1.6, 241.15989.150.2411.11792637) - 2024-05-03
