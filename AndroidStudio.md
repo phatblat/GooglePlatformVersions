@@ -33,6 +33,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Jellyfish (2023.3.1)
 
+- [Patch 2](https://androidstudio.googleblog.com/2024/06/android-studio-jellyfish-202331-patch-2_10.html) (2023.3.1.20, 233.14808.21.2331.11926650) - 2024-06-10
 - [Patch 1](https://androidstudio.googleblog.com/2024/05/android-studio-jellyfish-202331-patch-1.html) (2023.3.1.19, 233.14808.21.2331.11842104) - 2024-05-20
 - [Stable](https://androidstudio.googleblog.com/2024/04/android-studio-jellyfish-202331-now.html) (2023.3.1.18, 233.14808.21.2331.11709847) - 2024-04-30
 - [RC 2](https://androidstudio.googleblog.com/2024/04/android-studio-jellyfish-202331-rc-2.html) (2023.3.1.17, 233.14808.21.2331.11678080) - 2024-04-08
