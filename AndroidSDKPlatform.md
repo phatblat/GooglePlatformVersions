@@ -8,6 +8,7 @@ section of the Android Developer portal.
 
 ## Android 15 "Vannila Ice Cream" (API level 35)
 
+- [Beta 2.2](https://developer.android.com/about/versions/15/release-notes#beta-2.2) (AP31.240426.023.B4) - 2024-06-03
 - [Beta 2.1](https://developer.android.com/about/versions/15/release-notes#beta-2.1) (AP31.240426.023) - 2024-05-20
 - [Beta 2](https://developer.android.com/about/versions/15/release-notes#beta-2) (AP31.240426.022) - 2024-05-15
 - [Beta 1.2](https://developer.android.com/about/versions/15/release-notes#beta-1.2) (AP31.240322.027) - 2024-04-25
