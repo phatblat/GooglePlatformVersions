@@ -6,6 +6,8 @@
 Release notes for the latest preview can be found in the [preview](https://developer.android.com/preview/release-notes)
 section of the Android Developer portal.
 
+[Generic system images](https://developer.android.com/topic/generic-system-image/releases)
+
 ## Android 15 "Vannila Ice Cream" (API level 35)
 
 - [Beta 3](https://developer.android.com/about/versions/15/release-notes#beta-3) (AP31.240517.022) - 2024-06-18
@@ -20,8 +22,12 @@ section of the Android Developer portal.
 
 ## Android 14 "Upside Down Cake" (API level 34)
 
-<https://developer.android.com/about/versions/14>
+- <https://developer.android.com/about/versions/14>
+- <https://source.android.com/docs/whatsnew/android-14-release>
+- <https://source.android.com/docs/setup/reference/build-numbers#source-code-tags-and-builds>
 
+- [QPR3 14.0.0_r51]() only Pixel 8 series (AP2A.240605.024.A1) - 2024-06-05
+- [QPR3 14.0.0_r50]() (AP2A.240605.024) - 2024-06-05
 - [QPR3 Beta 2](https://developer.android.com/about/versions/14/release-notes#beta2) (AP21.240216.010) - 2024-03-07
 - [QPR3 Beta 1](https://developer.android.com/about/versions/14/release-notes#beta1) (AP21.240119.009) - 2024-02-07
 - [QPR2](https://www.androidcentral.com/apps-software/google-pixel-march-2024-update) (AP1A.240305.019.A1) - 2023-03-04
