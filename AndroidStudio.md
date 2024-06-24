@@ -10,7 +10,8 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## Koala Feature Drop (2024.1.2)
 
-- [Canary 6](https://androidstudio.googleblog.com/2024/06/android-studio-koala-feature-drop_17.html) (2024.1.2.6, 241.17890.1.2412.**BUILD_NUMBER**) - 2024-06-17
+- [Canary 7](https://androidstudio.googleblog.com/2024/06/android-studio-koala-feature-drop_20.htm7) (2024.1.2.6, 241.17890.1.2412.241.17890.1.2412.11993144) - 2024-06-20
+- [Canary 6](https://androidstudio.googleblog.com/2024/06/android-studio-koala-feature-drop_17.html) (2024.1.2.6, 241.17890.1.2412.241.17890.1.2412.11972402) - 2024-06-17
 - [Canary 5](https://androidstudio.googleblog.com/2024/06/android-studio-koala-feature-drop.html) (2024.1.2.5, 241.17011.79.2412.11938461) - 2024-06-07
 - [Canary 4](https://androidstudio.googleblog.com/2024/05/android-studio-koala-feature-drop_30.html) (2024.1.2.4, 241.15989.150.2412.11905440) - 2024-05-30
 - [Canary 3](https://androidstudio.googleblog.com/2024/05/android-studio-koala-feature-drop_23.html) (2024.1.2.3, 241.15989.150.2412.11879573) - 2024-05-23
