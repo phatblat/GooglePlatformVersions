@@ -12,7 +12,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 - [Canary 1](https://androidstudio.googleblog.com/2024/07/android-studio-ladybug-202413-canary-1.html) (2024.1.3.1, 241.18034.62.2413.12081498) - 2024-07-15
 
-## Koala Feature Drop (2024.1.2)
+## 🐨 Koala Feature Drop (2024.1.2)
 
 - [Beta 1](https://androidstudio.googleblog.com/2024/07/android-studio-koala-feature-drop.html) (2024.1.2.9, 241.18034.62.2412.12048879) - 2024-07-10
 - [Canary 8](https://androidstudio.googleblog.com/2024/06/android-studio-koala-feature-drop_27.html) (2024.1.2.8, 241.18034.62.2412.12022747) - 2024-06-27
@@ -24,7 +24,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 - [Canary 2](https://androidstudio.googleblog.com/2024/05/android-studio-koala-feature-drop_17.html) (2024.1.2.2, 241.15989.150.2412.11851376) - 2024-05-17
 - [Canary 1](https://androidstudio.googleblog.com/2024/05/android-studio-koala-feature-drop.html) (2024.1.2.1, 241.15989.150.2412.11822507) - 2024-05-14
 
-## Koala (2024.1.1)
+## 🐨 Koala (2024.1.1)
 
 - [Patch 1](https://androidstudio.googleblog.com/2024/07/android-studio-koala-202411-patch-1-now.html) (2024.1.1.12, 241.18034.62.2411.12071903) - 2024-07-11
 - [Stable](https://androidstudio.googleblog.com/2024/06/android-studio-koala-202411-now.html) (2024.1.1.11, 241.15989.150.2411.11948838) - 2024-06-13
@@ -41,7 +41,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 - [Canary 2](https://androidstudio.googleblog.com/2024/03/android-studio-koala-202332-canary-2.html) (2023.3.2.2, 233.14475.28.2332.11606850) - 2024-03-22
 - [Canary 1](https://androidstudio.googleblog.com/2024/03/android-studio-jellyfish-202332-canary.html) (2023.3.2.1, 233.14475.28.2332.11578541) - 2024-03-19
 
-## Jellyfish (2023.3.1)
+## 🪼 Jellyfish (2023.3.1)
 
 - [Patch 2](https://androidstudio.googleblog.com/2024/06/android-studio-jellyfish-202331-patch-2_10.html) (2023.3.1.20, 233.14808.21.2331.11926650) - 2024-06-10
 - [Patch 1](https://androidstudio.googleblog.com/2024/05/android-studio-jellyfish-202331-patch-1.html) (2023.3.1.19, 233.14808.21.2331.11842104) - 2024-05-20
@@ -64,7 +64,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 - [Canary 2](https://androidstudio.googleblog.com/2024/01/android-studio-jellyfish-202331-canary.html) (2023.3.1.2, 233.13135.103.2331.11259770) - 2024-01-02
 - [Canary 1](https://androidstudio.googleblog.com/2023/12/android-studio-jellyfish-202331-canary.html) (2023.3.1.1, 233.13135.103.2331.11247450) - 2023-12-28
 
-## Iguana (2023.2.1)
+## 🦎 Iguana (2023.2.1)
 
 - [Patch 2](https://androidstudio.googleblog.com/2024/04/android-studio-iguana-202321-patch-2.html) (2023.2.1.25, 232.10300.40.2321.11668458) - 2024-04-09
 - [Patch 1](https://androidstudio.googleblog.com/2024/03/android-studio-iguana-202321-patch-1.html) (2023.2.1.24, 232.10300.40.2321.11567975) - 2024-03-18
@@ -92,7 +92,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 - [Canary 2](https://androidstudio.googleblog.com/2023/09/android-studio-iguana-canary-2-now.html) (2023.2.1.2, 232.9559.62.2321.10749089) - 2023-09-05
 - [Canary 1](https://androidstudio.googleblog.com/2023/08/android-studio-iguana-canary-1-now.html) (2023.2.1.1, 232.8660.185.2321.10696284) - 2023-08-25
 
-## Hedgehog (2023.1.1)
+## 🦔 Hedgehog (2023.1.1)
 
 - [Patch 2](https://androidstudio.googleblog.com/2024/01/android-studio-hedgehog-202311-patch-2.html) (2023.1.1.28, 231.9392.1.2311.11330709) - 2024-01-23
 - [Patch 1](https://androidstudio.googleblog.com/2024/01/android-studio-hedgehog-202311-patch-1.html) (2023.1.1.27, 231.9392.1.2311.11255304) - 2024-01-03
@@ -123,7 +123,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 - [Canary 2](https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-2-now.html) (2023.1.1.2, 231.6890.12.2311.10027519) - 2023-05-03
 - [Canary 1](https://androidstudio.googleblog.com/2023/04/android-studio-hedgehog-canary-1-now.html) (2023.1.1.1, 223.8836.35.2311.9976484) - 2023-04-26
 
-## Giraffe (2022.3.1)
+## 🦒 Giraffe (2022.3.1)
 
 - [Patch 4](https://androidstudio.googleblog.com/2023/11/android-studio-giraffe-202231-patch-4.html) (223.8836.35.2231.11090377) - 2023-11-16
 - [Patch 3](https://androidstudio.googleblog.com/2023/11/android-studio-giraffe-202231-patch-3.html) (223.8836.35.2231.11005911) - 2023-11-07
@@ -148,7 +148,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 - [Canary 2](https://androidstudio.googleblog.com/2023/01/android-studio-giraffe-canary-2-now.html) (223.7571.182.2231.9523943) - 2023-01-26
 - [Canary 1](https://androidstudio.googleblog.com/2023/01/android-studio-giraffe-canary-1-now.html) (223.4884.69.2231.9486165) - 2023-01-17
 
-## Flamingo (2022.2.1)
+## 🦩 Flamingo (2022.2.1)
 
 - [Patch 2](https://androidstudio.googleblog.com/2023/05/android-studio-flamingo-patch-2-now.html) (222.4459.24.2221.10121639) - 2023-05-24
 - [Patch 1](https://androidstudio.googleblog.com/2023/05/android-studio-flamingo-202221-patch-1.html) (222.4459.24.2221.9971841) - 2023-05-01
@@ -171,7 +171,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 - [Canary 2](https://androidstudio.googleblog.com/2022/09/android-studio-flamingo-canary-2.html) (222.4167.29.2221.9093980) - 2022-09-27
 - [Canary 1](https://androidstudio.googleblog.com/2022/09/android-studio-flamingo-canary-1.html) (222.3739.54.2221.9043926) - 2022-09-22
 
-## Electric Eel (2022.1.1)
+## 🐍 Electric Eel (2022.1.1)
 
 - [Patch 2](https://androidstudio.googleblog.com/2023/02/android-studio-electric-eel-202211.html) (221.6008.13.2211.9619390) - 2023-02-27
 - [Patch 1](https://androidstudio.googleblog.com/2023/02/android-studio-electric-eel-202221.html) (221.6008.13.2211.9514443) - 2023-02-01
@@ -195,7 +195,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 - [Canary 2](https://androidstudio.googleblog.com/2022/05/android-studio-electric-eel-canary-2.html) (213.7172.25.2211.8571212) - 2022-05-13
 - [Canary 1](https://androidstudio.googleblog.com/2022/05/android-studio-electric-eel-canary-1.html) (213.7172.25.2211.8563311) - 2022-05-11
 
-## Dolphin (2021.3.1)
+## 🐬 Dolphin (2021.3.1)
 
 - **[Stable](https://androidstudio.googleblog.com/2022/09/android-studio-dolphin-available-in.html)** (213.7172.25.2113.9014738) - 2022-09-15
 - [RC 1](https://androidstudio.googleblog.com/2022/08/android-studio-dolphin-rc1-now-available.html) (213.7172.25.2113.8913347) - 2022-08-16
@@ -214,7 +214,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 - [Canary 2](https://androidstudio.googleblog.com/2022/02/android-studio-dolphin-canary-2-now.html) - 2022-02-11
 - [Canary 1](https://androidstudio.googleblog.com/2022/01/android-studio-dolphin-canary-1-now.html) - 2022-01-31
 
-## Chipmunk (2021.2.1)
+## 🐿️ Chipmunk (2021.2.1)
 
 - AGP 3.2 or higher
 
@@ -235,7 +235,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 - [Canary 2](https://androidstudio.googleblog.com/2021/10/android-studio-chipmunk-canary-2.html) - 2021-10-19
 - [Canary 1](https://androidstudio.googleblog.com/2021/10/android-studio-chipmunk-canary-1.html) - 2021-10-14
 
-## Bumblebee (2021.1.1)
+## 🐝 Bumblebee (2021.1.1)
 
 - AGP 3.2 or higher
 
@@ -259,7 +259,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 - [Canary 2](https://androidstudio.googleblog.com/2021/06/android-studio-bumblebee-canary-2.html) - 2021-06-16
 - [Canary 1](https://androidstudio.googleblog.com/2021/05/android-studio-bumblebee-canary-1.html) - 2021-05-26
 
-## Arctic Fox (2020.3.1)
+## 🦊 Arctic Fox (2020.3.1)
 
 <https://developer.android.com/studio/releases/#arctic-fox>
 203.7935034
