@@ -5,6 +5,11 @@ Android Gradle Plugin [release notes](https://developer.android.com/studio/relea
 - twitter [@AGPVersions](https://twitter.com/agpversions)
 - [Andsroid Gradle plugin API updates](https://developer.android.com/build/releases/gradle-plugin-api-updates)
 
+## 8.5
+
+- [8.5.1](https://developer.android.com/build/releases/gradle-plugin#android-studio-koala-|-2024.1.1-patch-1-and-agp-8.5.1-july-2024) - 2024-07-11
+  - released with Android Studio Koala (2024.1.1) Patch 1
+
 ## 8.3
 
 [Android Gradle plugin 8.3 release notes](https://developer.android.com/build/releases/gradle-plugin#updating-plugin)
