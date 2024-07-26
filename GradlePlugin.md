@@ -9,6 +9,8 @@ Android Gradle Plugin [release notes](https://developer.android.com/studio/relea
 
 - [8.5.1](https://developer.android.com/build/releases/gradle-plugin#android-studio-koala-|-2024.1.1-patch-1-and-agp-8.5.1-july-2024) - 2024-07-11
   - released with Android Studio Koala (2024.1.1) Patch 1
+- [8.5.0-rc01](https://developer.android.com/studio/releases/fixed-bugs/studio/2024.1.1#android-studio-koala-|-2024.1.1-rc-1) - 2024-05-30
+  - released with Android Studio Koala (2024.1.1) RC 1
 
 ## 8.3
 
