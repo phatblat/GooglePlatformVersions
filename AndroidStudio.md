@@ -10,11 +10,12 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## 🐞 Ladybug (2024.1.3)
 
-- [Canary 2](https://androidstudio.googleblog.com/2024/07/android-studio-ladybug-202413-canary-2.html) (2024.1.3.2, 241.18034.62.2413.12109192) - 2024-07-22
+- [Canary 2](https://androidstudio.googleblog.com/2024/07/android-studio-ladybug-202413-canary-2.html) (2024.1.3.2, 241.18034.62.2412.12084018) - 2024-07-22
 - [Canary 1](https://androidstudio.googleblog.com/2024/07/android-studio-ladybug-202413-canary-1.html) (2024.1.3.1, 241.18034.62.2413.12081498) - 2024-07-15
 
 ## 🐨 Koala Feature Drop (2024.1.2)
 
+- [Beta 2](https://androidstudio.googleblog.com/2024/07/android-studio-koala-feature-drop_24.html) (2024.1.2.10, 241.18034.62.2412.12048879) - 2024-07-24
 - [Beta 1](https://androidstudio.googleblog.com/2024/07/android-studio-koala-feature-drop.html) (2024.1.2.9, 241.18034.62.2412.12048879) - 2024-07-10
 - [Canary 8](https://androidstudio.googleblog.com/2024/06/android-studio-koala-feature-drop_27.html) (2024.1.2.8, 241.18034.62.2412.12022747) - 2024-06-27
 - [Canary 7](https://androidstudio.googleblog.com/2024/06/android-studio-koala-feature-drop_20.html) (2024.1.2.7, 241.17890.1.2412.241.17890.1.2412.11993144) - 2024-06-20
