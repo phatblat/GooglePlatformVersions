@@ -19,6 +19,8 @@ Android Gradle Plugin [release notes](https://developer.android.com/studio/relea
   - released with Android Studio Koala (2024.1.1) Canary 5
 - [8.5.0-alpha04](https://developer.android.com/studio/releases/fixed-bugs/studio/2024.1.1#android-studio-koala-|-2024.1.1-canary-4) - 2024-04-08
   - released with Android Studio Koala (2024.1.1) Canary 4
+- [8.5.0-alpha03](https://developer.android.com/studio/releases/fixed-bugs/studio/2024.1.1#android-studio-koala-|-2024.1.1-canary-3) - 2024-04-02
+  - released with Android Studio Koala (2024.1.1) Canary 3
 
 ## 8.3
 
