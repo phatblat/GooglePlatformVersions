@@ -1,6 +1,6 @@
 # 🔌 Android Gradle Plugin
 
-Android Gradle Plugin [release notes](https://developer.android.com/studio/releases/gradle-plugin)
+Android Gradle Plugin [release notes](https://developer.android.com/build/releases/gradle-plugin)
 
 - twitter [@AGPVersions](https://twitter.com/agpversions)
 - [Andsroid Gradle plugin API updates](https://developer.android.com/build/releases/gradle-plugin-api-updates)
