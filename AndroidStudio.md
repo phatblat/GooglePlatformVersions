@@ -10,6 +10,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## 🐞 Ladybug (2024.1.3)
 
+- [Canary 4](https://androidstudio.googleblog.com/2024/08/android-studio-ladybug-202421-canary-4.html) (2024.1.3.4, 242.20224.159.2421.12169541) - 2024-08-06
 - [Canary 3](https://androidstudio.googleblog.com/2024/07/android-studio-ladybug-202413-canary-3.html) (2024.1.3.3, 241.18034.62.2413.12138059) - 2024-07-25
 - [Canary 2](https://androidstudio.googleblog.com/2024/07/android-studio-ladybug-202413-canary-2.html) (2024.1.3.2, 241.18034.62.2412.12084018) - 2024-07-22
 - [Canary 1](https://androidstudio.googleblog.com/2024/07/android-studio-ladybug-202413-canary-1.html) (2024.1.3.1, 241.18034.62.2413.12081498) - 2024-07-15
