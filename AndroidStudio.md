@@ -32,6 +32,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## 🐨 Koala (2024.1.1)
 
+- [Patch 2](https://androidstudio.googleblog.com/2024/08/android-studio-koala-202411-patch-2-now.html) (2024.1.1.13, 241.18034.62.2411.12169540) - 2024-08-08
 - [Patch 1](https://androidstudio.googleblog.com/2024/07/android-studio-koala-202411-patch-1-now.html) (2024.1.1.12, 241.18034.62.2411.12071903) - 2024-07-11
 - [Stable](https://androidstudio.googleblog.com/2024/06/android-studio-koala-202411-now.html) (2024.1.1.11, 241.15989.150.2411.11948838) - 2024-06-13
 - [RC 2](https://androidstudio.googleblog.com/2024/06/android-studio-koala-202411-rc-2-now.html) (2024.1.1.10, 241.15989.150.2411.11932844) - 2024-06-10
