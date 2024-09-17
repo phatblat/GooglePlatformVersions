@@ -8,7 +8,11 @@ Exhaustive list of [Android Studio releases](https://plugins.jetbrains.com/docs/
 High-level [release updates](https://androidstudio.googleblog.com) and
 [release notes](https://developer.android.com/studio/releases/) are listed separately.
 
-## 🐞 Ladybug (2024.1.3)
+## 🐞 Ladybug Feature Drop (2024.2.2)
+
+- [Canary 1](https://androidstudio.googleblog.com/2024/09/android-studio-ladybug-feature-drop.html) (2024.2.2.1, 242.21829.142.2422.12329062) - 2024-09-09
+
+## 🐞 Ladybug (2024.2.1)
 
 - [Beta 1](https://androidstudio.googleblog.com/2024/09/android-studio-ladybug-202421-beta-1.html) (2024.2.1.6, 242.20224.300.2421.12312915) - 2024-09-05
 - [Canary 9](https://androidstudio.googleblog.com/2024/08/android-studio-ladybug-202421-canary-9.html) (2024.2.1.5, 242.20224.300.2421.12293307) - 2024-08-30
