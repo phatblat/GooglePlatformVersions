@@ -32,6 +32,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## 🐨 Koala Feature Drop (2024.1.2)
 
+- [Patch 1](https://androidstudio.googleblog.com/2024/09/android-studio-koala-feature-drop.html) (2024.1.2.13, 241.19072.14.2412.12360217) - 2024-09-17
 - [Stable](https://androidstudio.googleblog.com/2024/08/android-studio-koala-feature-drop_29.html) (2024.1.2.12, 241.18034.62.2412.12266719) - 2024-08-29
 - [RC 1](https://androidstudio.googleblog.com/2024/08/android-studio-koala-feature-drop.html) (2024.1.2.11, 241.18034.62.2412.12169539) - 2024-08-06
 - [Beta 2](https://androidstudio.googleblog.com/2024/07/android-studio-koala-feature-drop_24.html) (2024.1.2.10, 241.18034.62.2412.12048879) - 2024-07-24
