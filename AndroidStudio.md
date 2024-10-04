@@ -10,7 +10,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## 🐞 Ladybug Feature Drop (2024.2.2)
 
-- [Canary 5](https://androidstudio.googleblog.com/2024/09/android-studio-ladybug-feature-drop_26.html) (2024.2.2.5, 242.23339.11.2422.12448552) - 2024-10-03
+- [Canary 5](?) (2024.2.2.5, 242.23339.11.2422.12448552) - 2024-10-03
 - [Canary 4](https://androidstudio.googleblog.com/2024/09/android-studio-ladybug-feature-drop_26.html) (2024.2.2.4, 242.23339.11.2422.12417746) - 2024-09-26
 - [Canary 3](https://androidstudio.googleblog.com/2024/09/android-studio-ladybug-feature-drop_23.html) (2024.2.2.3, 242.21829.142.2422.12395834) - 2024-09-23
 - [Canary 2](https://androidstudio.googleblog.com/2024/09/android-studio-ladybug-feature-drop_12.html) (2024.2.2.2, 242.21829.142.2422.12358220) - 2024-09-12
@@ -18,6 +18,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## 🐞 Ladybug (2024.2.1)
 
+- [Stable](?) (2024.2.1.9, 242.21829.142.2421.12409432) - 2024-10-01
 - [RC 1](https://androidstudio.googleblog.com/2024/09/android-studio-ladybug-202421-rc-1-now.html) (2024.2.1.8, 242.21829.142.2421.12366423) - 2024-09-23
 - [Beta 2](https://androidstudio.googleblog.com/2024/09/android-studio-ladybug-202421-beta-2.html) (2024.2.1.7, 242.21829.142.2421.12332550) - 2024-09-12
 - [Beta 1](https://androidstudio.googleblog.com/2024/09/android-studio-ladybug-202421-beta-1.html) (2024.2.1.6, 242.20224.300.2421.12312915) - 2024-09-05
