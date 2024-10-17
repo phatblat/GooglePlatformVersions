@@ -2,7 +2,7 @@
 
 Android Gradle Plugin [release notes](https://developer.android.com/build/releases/gradle-plugin)
 
-- [Andsroid Gradle plugin API updates](https://developer.android.com/build/releases/gradle-plugin-api-updates)
+- [Android Gradle plugin API updates](https://developer.android.com/build/releases/gradle-plugin-api-updates)
 
 ## 8.5
 
