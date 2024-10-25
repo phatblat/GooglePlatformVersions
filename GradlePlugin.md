@@ -4,6 +4,13 @@ Android Gradle Plugin [release notes](https://developer.android.com/build/releas
 
 - [Android Gradle plugin API updates](https://developer.android.com/build/releases/gradle-plugin-api-updates)
 
+## 8.7
+
+- [8.7.1](https://developer.android.com/build/releases/gradle-plugin#android-gradle-plugin-8.7.1) - 2024-10-14
+  - released with [Android Studio Ladybug (2024.2.1 Patch 1)](https://developer.android.com/studio/releases/fixed-bugs/studio/2024.2.1#android-studio-ladybug-|-2024.2.1-patch-1)
+- [8.7.0](https://developer.android.com/build/releases/gradle-plugin#android-gradle-plugin-8.7.0) - 2024-10-01
+  - released with Android Studio Ladybug (2024.2.1)
+
 ## 8.5
 
 - [8.5.2](https://developer.android.com/studio/releases/fixed-bugs/studio/2024.1.1#android-studio-koala-|-2024.1.1-patch-2) - 2024-08-08
