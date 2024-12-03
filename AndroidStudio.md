@@ -10,6 +10,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## 🐒 Meercat (2024.3.1)
 
+- [Canary 2](https://androidstudio.googleblog.com/2024/11/android-studio-meerkat-202431-canary-2.html) (2024.3.1.2, 243.21565.129.2431.12655144) - 2024-11-14
 - [Canary 1](https://androidstudio.googleblog.com/2024/11/android-studio-meerkat-202431-canary-1.html) (2024.3.1.1, 243.21565.23.2431.12637205) - 2024-11-12
 
 ## 🐞 Ladybug Feature Drop (2024.2.2)
