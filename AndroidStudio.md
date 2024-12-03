@@ -16,6 +16,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## 🐞 Ladybug Feature Drop (2024.2.2)
 
+- [Beta 1](https://androidstudio.googleblog.com/2024/11/android-studio-ladybug-feature-drop.html) (2024.2.2.10, 242.23726.103.2422.12630895) - 2024-11-18
 - [Canary 9](https://androidstudio.googleblog.com/2024/10/android-studio-ladybug-feature-drop_31.html) (2024.2.2.9, 242.23339.11.2422.12584204) - 2024-10-31
 - [Canary 8](https://androidstudio.googleblog.com/2024/10/android-studio-ladybug-feature-drop_25.html) (2024.2.2.8, 242.23339.11.2422.12548333) - 2024-10-25
 - [Canary 7](https://androidstudio.googleblog.com/2024/10/android-studio-ladybug-feature-drop_17.html) (2024.2.2.7, 242.23339.11.2422.12512484) - 2024-10-17
