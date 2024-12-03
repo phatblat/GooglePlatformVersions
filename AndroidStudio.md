@@ -8,6 +8,10 @@ Exhaustive list of [Android Studio releases](https://plugins.jetbrains.com/docs/
 High-level [release updates](https://androidstudio.googleblog.com) and
 [release notes](https://developer.android.com/studio/releases/) are listed separately.
 
+## 🐒 Meercat (2024.3.1)
+
+- [Canary 1](https://androidstudio.googleblog.com/2024/11/android-studio-meerkat-202431-canary-1.html) (2024.3.1.1, 243.21565.23.2431.12637205) - 2024-11-12
+
 ## 🐞 Ladybug Feature Drop (2024.2.2)
 
 - [Canary 9](https://androidstudio.googleblog.com/2024/10/android-studio-ladybug-feature-drop_31.html) (2024.2.2.9, 242.23339.11.2422.12584204) - 2024-10-31
