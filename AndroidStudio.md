@@ -30,9 +30,9 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## 🐞 Ladybug (2024.2.1)
 
-- [Patch 3](https://androidstudio.googleblog.com/2024/12/android-studio-ladybug-202421-patch-3.html) (2024.2.1.11, 242.23339.11.2421.12700392) - 2024-12-03
-- [Patch 2](https://androidstudio.googleblog.com/2024/10/android-studio-ladybug-202421-patch-2.html) (2024.2.1.10, 242.21829.142.2421.12550806) - 2024-10-31
-- [Patch 1](https://androidstudio.googleblog.com/2024/10/android-studio-ladybug-202421-now.html) (2024.2.1.9, 242.21829.142.2421.12409432) - 2024-10-14
+- [Patch 3](https://androidstudio.googleblog.com/2024/12/android-studio-ladybug-202421-patch-3.html) (2024.2.1.11, 242.23339.11.2421.12700392) - 2024-12-02
+- [Patch 2](https://androidstudio.googleblog.com/2024/10/android-studio-ladybug-202421-patch-2.html) (2024.2.1.10, 242.23339.11.2421.12550806) - 2024-10-31
+- [Patch 1](https://androidstudio.googleblog.com/2024/10/android-studio-ladybug-202421-now.html) (2024.2.1.9, 242.23339.11.2421.12483815) - 2024-10-14
 - [Stable](https://androidstudio.googleblog.com/2024/10/android-studio-ladybug-202421-now.html) (2024.2.1.9, 242.21829.142.2421.12409432) - 2024-10-01
 - [RC 1](https://androidstudio.googleblog.com/2024/09/android-studio-ladybug-202421-rc-1-now.html) (2024.2.1.8, 242.21829.142.2421.12366423) - 2024-09-23
 - [Beta 2](https://androidstudio.googleblog.com/2024/09/android-studio-ladybug-202421-beta-2.html) (2024.2.1.7, 242.21829.142.2421.12332550) - 2024-09-12
