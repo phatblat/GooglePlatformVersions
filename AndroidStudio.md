@@ -14,6 +14,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## 🐒 Meercat (2024.3.1)
 
+- [Beta 1](https://androidstudio.googleblog.com/2025/01/android-studio-meerkat-202431-beta-1.html) (2024.3.1.10, 243.22562.218.2431.12926017) - 2025-01-22
 - [Canary 9](https://androidstudio.googleblog.com/2025/01/android-studio-meerkat-202431-canary-9.html) (2024.3.1.9, 243.22562.218.2431.12894773) - 2025-01-10
 - [Canary 8](https://androidstudio.googleblog.com/2025/01/android-studio-meerkat-202431-canary-8.html) (2024.3.1.8, 243.22562.145.2431.12862218) - 2025-01-06
 - [Canary 7](https://androidstudio.googleblog.com/2024/12/android-studio-meerkat-202431-canary-7.html) (2024.3.1.7, 243.22562.145.2431.12832016) - 2024-12-23
