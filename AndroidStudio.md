@@ -10,6 +10,7 @@ High-level [release updates](https://androidstudio.googleblog.com) and
 
 ## 🐒 Meercat Feature Drop (2024.3.2)
 
+- [Canary 6](https://androidstudio.googleblog.com/2025/02/android-studio-meerkat-feature-drop_21.html) (2024.3.2.6, 243.24978.46.2432.13093109) - 2025-02-21
 - [Canary 5](https://androidstudio.googleblog.com/2025/02/android-studio-meerkat-feature-drop_13.html) (2024.3.2.5, 243.23654.117.2432.13058383) - 2025-02-13
 - [Canary 4](https://androidstudio.googleblog.com/2025/02/android-studio-meerkat-feature-drop_6.html) (2024.3.2.4, 243.23654.117.2432.13021186) - 2025-02-06
 - [Canary 3](https://androidstudio.googleblog.com/2025/02/android-studio-meerkat-feature-drop.html) (2024.3.2.3, 243.23654.117.2432.12988063) - 2025-02-03
